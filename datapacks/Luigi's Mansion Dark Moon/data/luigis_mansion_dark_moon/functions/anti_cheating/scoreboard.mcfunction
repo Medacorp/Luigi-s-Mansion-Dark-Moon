@@ -1,0 +1,9 @@
+scoreboard objectives add GhostNr dummy
+scoreboard objectives add GradualMusic dummy
+scoreboard objectives add Music dummy
+scoreboard objectives add MusicType dummy
+scoreboard objectives add ID dummy
+scoreboard objectives add LoadedChunks dummy
+scoreboard objectives add Offline minecraft.custom:minecraft.leave_game
+scoreboard objectives add PassiveNr dummy
+scoreboard objectives add PrevMusicType dummy

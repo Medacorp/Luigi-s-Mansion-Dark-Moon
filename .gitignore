@@ -1,0 +1,13 @@
+/advancements/
+/data/chunks.dat
+/data/command_storage_*
+/data/scoreboard.dat
+/data/raids.dat
+/DIM1/
+/DIM-1/
+/entities/
+/playerdata/
+/poi/
+/stats/
+*_old
+session.lock
