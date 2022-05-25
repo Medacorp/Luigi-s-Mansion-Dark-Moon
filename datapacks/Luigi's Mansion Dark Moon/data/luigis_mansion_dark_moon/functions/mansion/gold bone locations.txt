@@ -1,0 +1,1 @@
+A Gold Bone can be found in the first unsearched, and empty object when the player has obtained 200G or more.

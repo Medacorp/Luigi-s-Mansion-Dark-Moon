@@ -1,0 +1,42 @@
+always:
+balcony, rafters, master hall, common hall, library, bedroom, guard hall
+
+sometimes: (2 selected)
+mudroom, coatroom, lab, kitchen, dining room, parlor, study, garage
+
+task room order:
+Mudroom
+Garage
+Coatroom
+Lab
+Parlor
+Study
+Dining Room
+Kitchen
+Guard Hall
+Library
+Balcony
+Common Hall
+Master Hall
+Bedroom
+Rafters
+
+randomly haunted: (each pool 1 selected, no overlapping selection)
+KITCHEN: east side locked while dark
+BEDROOM: bed locked while dark
+STUDY: fireplace locked while dark
+LOBBY: no wave 2
+
+Greenie pool: Garage, Coatroom, Lab, Parlor, Study, Lobby, Kitchen, Dining Room (8; mudroom, studio, bedroom?)
+wave 1: 2 greenies, wave 2: 2 greenies KITCHEN, COATROOM, LAB, GARAGE(1 honking car horn), STUDY, PARLOR
+wave 1: 3 greenies, wave 2: 1 greenies DININGROOM, LOBBY
+
+Slammer pool: Mudroom, Lab, Studio, Parlor, Bedroom, Study, Lobby, Kitchen, Dining Room (9; garage, coatroom?)
+wave 1: 2 slammers, wave 2: 2 slammers KITCHEN(one cooks chicken), BEDROOM(one lays on bed, second appears near gem when interacting with the former), PARLOR(both sitting in chairs), DININGROOM, LAB, MUDROOM, LOBBY, STUDIO, STUDY
+
+Hider pool: Garage, Mudroom, Studio, Parlor, Bedroom, Study, Lobby, Kitchen, Dining Room (9; coatroom, lab?)
+wave 1: 2 hiders, wave 2: 2 hiders PARLOR, MUDROOM, STUDIO, KITCHEN, STUDY, GARAGE(hidden until walking past car, then they'll scare luigi), LOBBY, DININGROOM
+wave 1: 1 hider, 1 slammer, wave 2: 2 greenies BEDROOM(hider lays on bed, slammer appears near gem when interacting with the hider)
+
+Always haunted:
+Patio: 1 greenie and 1 gold greenie, playing in the water at the south side

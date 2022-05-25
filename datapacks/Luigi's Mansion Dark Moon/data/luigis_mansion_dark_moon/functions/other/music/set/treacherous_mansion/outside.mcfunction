@@ -1,3 +1,3 @@
 scoreboard players set @s Music 0
-scoreboard players remove @s[scores={MusicType=3..4}] GradualMusic 54
+execute unless entity @s[scores={MusicType=10..11}] run scoreboard players set @s GradualMusic 0
 scoreboard players set @s MusicType 11
