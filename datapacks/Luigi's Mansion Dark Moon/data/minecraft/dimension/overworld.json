@@ -1,0 +1,32 @@
+{
+    "type": "luigis_mansion_dark_moon:evershade_valley",
+    "generator": {
+        "type": "minecraft:flat",
+        "settings": {
+            "biome": "luigis_mansion_dark_moon:forest",
+            "features": true,
+            "lakes": false,
+            "layers": [
+                {
+                    "block": "minecraft:bedrock",
+                    "height": 1
+                },
+                {
+                    "block": "minecraft:stone",
+                    "height": 86
+                },
+                {
+                    "block": "minecraft:dirt",
+                    "height": 2
+                },
+                {
+                    "block": "minecraft:grass_block",
+                    "height": 1
+                }
+            ],
+            "structure_overrides": [
+                "minecraft:villages"
+            ]
+        }
+    }
+}
