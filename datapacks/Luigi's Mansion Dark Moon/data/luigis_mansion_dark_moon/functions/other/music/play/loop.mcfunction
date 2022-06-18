@@ -56,12 +56,6 @@ playsound luigis_mansion_dark_moon:music.ghost_theme.14 music @s[scores={MusicTy
 scoreboard players set @s[scores={MusicType=30}] Music 1361
 playsound luigis_mansion_dark_moon:music.ghost_theme.15 music @s[scores={MusicType=31}] ~ ~ ~ 1000
 scoreboard players set @s[scores={MusicType=31}] Music 1391
-playsound luigis_mansion_dark_moon:music.catching_ghosts.1 music @s[scores={MusicType=32}] ~ ~ ~ 1000
-scoreboard players set @s[scores={MusicType=32}] Music 419
-playsound luigis_mansion_dark_moon:music.catching_ghosts.2 music @s[scores={MusicType=33}] ~ ~ ~ 1000
-scoreboard players set @s[scores={MusicType=33}] Music 420
-playsound luigis_mansion_dark_moon:music.catching_ghosts.3 music @s[scores={MusicType=34}] ~ ~ ~ 1000
-scoreboard players set @s[scores={MusicType=34}] Music 420
 execute if entity @s[scores={MusicType=35}] run function luigis_mansion_dark_moon:other/music/play/loop/sticky_situation/inside
 execute if entity @s[scores={MusicType=36}] run function luigis_mansion_dark_moon:other/music/play/loop/sticky_situation/outside
 playsound luigis_mansion_dark_moon:music.e_gadd music @s[scores={MusicType=37}] ~ ~ ~ 1000
