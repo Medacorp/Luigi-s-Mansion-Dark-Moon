@@ -1,15 +1,15 @@
 Story:
-Pull 2       : 2000
-Dark-Light 2 : 4000
-Pull 3       : 7000
-Dark-Light 3 : 10000
-Poltergust   : 20000
+Power Gauge 2    : 2000
+Dark-Light 2     : 4000
+Power Gauge 3    : 7000
+Dark-Light 3     : 10000
+Super Poltergust : 20000
 
-Scarescraper : hunter : rush  : polterpup : surprise
-Pull 2       : 600    : 400   : 250       : 500
-Dark-Light 2 : 1800   : 1100  : 750       : 1500
-Poltergust 2 : 4000   : 2400  : 1600      : 3000
-Pull 3       : 7000   : 4000  : 2500      : 5500
-Dark-Light 3 : 11500  : 7000  : 4500      : 9000
-Poltergust 3 : 16000  : 10000 : 6500      : 12500
-Heart Drop   : +4000  : +2000 : +1000     : +3000
+Scarescraper  : hunter : rush  : polterpup : surprise
+Power Gauge 2 : 600    : 400   : 250       : 500
+Dark-Light 2  : 1800   : 1100  : 750       : 1500
+Suction 2     : 4000   : 2400  : 1600      : 3000
+Power Gauge 3 : 7000   : 4000  : 2500      : 5500
+Dark-Light 3  : 11500  : 7000  : 4500      : 9000
+Suction 3     : 16000  : 10000 : 6500      : 12500
+Heart Drop    : +4000  : +2000 : +1000     : +3000

@@ -1,0 +1,2 @@
+execute if entity @a[scores={Health=..99}] if predicate luigis_mansion_dark_moon:turn_loot_to_heart run function luigis_mansion_dark_moon:entities/ghost/turn_loot_to_heart
+function luigis_mansion_dark_moon:entities/ghost/drop_loot

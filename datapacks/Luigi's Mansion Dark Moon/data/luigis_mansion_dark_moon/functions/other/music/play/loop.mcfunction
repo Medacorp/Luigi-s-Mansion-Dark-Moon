@@ -14,7 +14,8 @@ execute if entity @s[scores={MusicType=9}] run function luigis_mansion_dark_moon
 execute if entity @s[scores={MusicType=10}] run function luigis_mansion_dark_moon:other/music/play/loop/treacherous_mansion/inside
 execute if entity @s[scores={MusicType=11}] run function luigis_mansion_dark_moon:other/music/play/loop/treacherous_mansion/outside
 execute if entity @s[scores={MusicType=1..2}] run function luigis_mansion_dark_moon:other/music/play/loop/humming/gloomy_manor
-execute if entity @s[scores={MusicType=3..11}] run function luigis_mansion_dark_moon:other/music/play/loop/humming/other
+execute if entity @s[scores={MusicType=3..4}] run function luigis_mansion_dark_moon:other/music/play/loop/humming/haunted_towers
+execute if entity @s[scores={MusicType=5..11}] run function luigis_mansion_dark_moon:other/music/play/loop/humming/other
 playsound luigis_mansion_dark_moon:music.gloomy_manor.garage music @s[scores={MusicType=12}] ~ ~ ~ 1000
 scoreboard players set @s[scores={MusicType=12}] Music 788
 playsound luigis_mansion_dark_moon:music.haunted_towers.haunted_graveyard music @s[scores={MusicType=13}] ~ ~ ~ 1000

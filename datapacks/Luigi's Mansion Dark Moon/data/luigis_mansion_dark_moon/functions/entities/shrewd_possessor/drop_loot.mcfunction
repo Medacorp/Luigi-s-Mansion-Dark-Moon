@@ -1,0 +1,1 @@
+function luigis_mansion_dark_moon:spawn_entities/item/dark_moon_piece/4

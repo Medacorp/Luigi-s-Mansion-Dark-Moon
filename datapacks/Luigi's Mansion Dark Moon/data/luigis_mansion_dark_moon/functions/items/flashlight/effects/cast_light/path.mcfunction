@@ -1,0 +1,2 @@
+scoreboard players add @s PathStep 1
+execute unless score @s PathStep matches 5 positioned ^ ^ ^1 if block ~ ~ ~ #luigis_mansion_dark_moon:flashlight_path run function luigis_mansion_dark_moon:items/flashlight/effects/cast_light/path

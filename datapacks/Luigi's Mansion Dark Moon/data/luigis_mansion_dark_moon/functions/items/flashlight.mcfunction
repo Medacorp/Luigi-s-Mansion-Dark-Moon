@@ -1,0 +1,2 @@
+execute if entity @s[tag=!small_second_run,nbt={Inventory:[{tag:{luigis_mansion_dark_moon:{id:"luigis_mansion_dark_moon:flashlight"}}}]}] run function luigis_mansion_dark_moon:items/flashlight/shine
+execute if entity @s[nbt=!{Inventory:[{tag:{luigis_mansion_dark_moon:{id:"luigis_mansion_dark_moon:flashlight"}}}]}] if data storage luigis_mansion_dark_moon:data {got_flashlight:1b} run function luigis_mansion_dark_moon:items/flashlight/give
