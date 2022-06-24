@@ -1,3 +1,4 @@
+scoreboard players set @s[scores={MusicType=-29..-25}] MusicType 121
 scoreboard players set @s[scores={MusicType=-19..-17}] MusicType 125
 scoreboard players set @s[scores={MusicType=-10..-5}] MusicType 0
 scoreboard players set @s[scores={MusicType=-2}] MusicType 0

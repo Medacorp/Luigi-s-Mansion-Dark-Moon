@@ -1,3 +1,43 @@
+playsound luigis_mansion_dark_moon:music.polterpup_revival music @s[scores={MusicType=-39}] ~ ~ ~ 1000
+scoreboard players set @s[scores={MusicType=-39}] Music 
+playsound luigis_mansion_dark_moon:music.treacherous_mansion.polterpup music @s[scores={MusicType=-38}] ~ ~ ~ 1000
+scoreboard players set @s[scores={MusicType=-38}] Music 
+playsound luigis_mansion_dark_moon:music.old_clockworks.polterpup music @s[scores={MusicType=-37}] ~ ~ ~ 1000
+scoreboard players set @s[scores={MusicType=-37}] Music 435
+playsound luigis_mansion_dark_moon:music.haunted_towers.polterpup_chase music @s[scores={MusicType=-36}] ~ ~ ~ 1000
+scoreboard players set @s[scores={MusicType=-36}] Music 
+playsound luigis_mansion_dark_moon:music.haunted_towers.polterpup music @s[scores={MusicType=-35}] ~ ~ ~ 1000
+scoreboard players set @s[scores={MusicType=-35}] Music 560
+playsound luigis_mansion_dark_moon:music.gloomy_manor.polterpup music @s[scores={MusicType=-34}] ~ ~ ~ 1000
+scoreboard players set @s[scores={MusicType=-34}] Music 
+playsound luigis_mansion_dark_moon:music.secret_mine.restore_power music @s[scores={MusicType=-33}] ~ ~ ~ 1000
+scoreboard players set @s[scores={MusicType=-33}] Music 270
+playsound luigis_mansion_dark_moon:music.old_clockworks.restore_clock_tower_gate music @s[scores={MusicType=-32}] ~ ~ ~ 1000
+scoreboard players set @s[scores={MusicType=-32}] Music 680
+playsound luigis_mansion_dark_moon:music.haunted_towers.restore_water music @s[scores={MusicType=-31}] ~ ~ ~ 1000
+scoreboard players set @s[scores={MusicType=-31}] Music 840
+playsound luigis_mansion_dark_moon:music.gloomy_manor.restore_crank music @s[scores={MusicType=-30}] ~ ~ ~ 1000
+scoreboard players set @s[scores={MusicType=-30}] Music 
+playsound luigis_mansion_dark_moon:music.treacherous_mansion.boss.cleared music @s[scores={MusicType=-29}] ~ ~ ~ 1000
+scoreboard players set @s[scores={MusicType=-29}] Music 
+playsound luigis_mansion_dark_moon:music.secret_mine.boss.cleared music @s[scores={MusicType=-28}] ~ ~ ~ 1000
+scoreboard players set @s[scores={MusicType=-28}] Music 
+playsound luigis_mansion_dark_moon:music.old_clockworks.boss.cleared music @s[scores={MusicType=-27}] ~ ~ ~ 1000
+scoreboard players set @s[scores={MusicType=-27}] Music 
+playsound luigis_mansion_dark_moon:music.haunted_towers.boss.cleared music @s[scores={MusicType=-26}] ~ ~ ~ 1000
+scoreboard players set @s[scores={MusicType=-26}] Music 420
+playsound luigis_mansion_dark_moon:music.gloomy_manor.boss.cleared music @s[scores={MusicType=-25}] ~ ~ ~ 1000
+scoreboard players set @s[scores={MusicType=-25}] Music 
+playsound luigis_mansion_dark_moon:music.treacherous_mansion.pixelize.first music @s[scores={MusicType=-24}] ~ ~ ~ 1000
+scoreboard players set @s[scores={MusicType=-24}] Music 
+playsound luigis_mansion_dark_moon:music.secret_mine.pixelize.first music @s[scores={MusicType=-23}] ~ ~ ~ 1000
+scoreboard players set @s[scores={MusicType=-23}] Music 520
+playsound luigis_mansion_dark_moon:music.old_clockworks.pixelize.first music @s[scores={MusicType=-22}] ~ ~ ~ 1000
+scoreboard players set @s[scores={MusicType=-22}] Music 300
+playsound luigis_mansion_dark_moon:music.haunted_towers.pixelize.first music @s[scores={MusicType=-21}] ~ ~ ~ 1000
+scoreboard players set @s[scores={MusicType=-21}] Music 
+playsound luigis_mansion_dark_moon:music.gloomy_manor.pixelize.first music @s[scores={MusicType=-20}] ~ ~ ~ 1000
+scoreboard players set @s[scores={MusicType=-20}] Music 480
 playsound luigis_mansion_dark_moon:music.scarescraper.running_out_of_time.too_late music @s[scores={MusicType=-19}] ~ ~ ~ 1000
 scoreboard players set @s[scores={MusicType=-19}] Music 150
 playsound luigis_mansion_dark_moon:music.scarescraper.floor_failed music @s[scores={MusicType=-18}] ~ ~ ~ 1000

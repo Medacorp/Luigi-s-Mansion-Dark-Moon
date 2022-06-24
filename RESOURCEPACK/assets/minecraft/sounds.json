@@ -151,6 +151,15 @@
             }
         ]
     },
+    "music.overworld.jungle_and_forest": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:no_sound",
+                "stream": false
+            }
+        ]
+    },
     "music.overworld.lush_caves": {
         "replace": true,
         "sounds": [
@@ -169,6 +178,15 @@
             }
         ]
     },
+    "music.overworld.old_growth_taiga": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:no_sound",
+                "stream": false
+            }
+        ]
+    },
     "music.overworld.snowy_slopes": {
         "replace": true,
         "sounds": [
@@ -179,6 +197,15 @@
         ]
     },
     "music.overworld.stony_peaks": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:no_sound",
+                "stream": false
+            }
+        ]
+    },
+    "music.overworld.swamp": {
         "replace": true,
         "sounds": [
             {

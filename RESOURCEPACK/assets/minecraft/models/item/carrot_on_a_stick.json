@@ -1,0 +1,62 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/carrot_on_a_stick"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.038,
+                "custom_model_data": 0
+            },
+            "model": "luigis_mansion_dark_moon:item/poltergust_5000/nozzle"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.038,
+                "custom_model_data": 1
+            },
+            "model": "luigis_mansion_dark_moon:item/flashlight"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.038,
+                "custom_model_data": 2
+            },
+            "model": "luigis_mansion_dark_moon:item/flashlight_charging"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.038,
+                "custom_model_data": 3
+            },
+            "model": "luigis_mansion_dark_moon:item/dark_light_device"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.038,
+                "custom_model_data": 4
+            },
+            "model": "luigis_mansion_dark_moon:item/dark_light_device_overheating"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.038,
+                "custom_model_data": 5
+            },
+            "model": "luigis_mansion_dark_moon:item/dual_scream"
+        },
+		{
+            "predicate": {
+                "damaged": 1
+            },
+            "model": "minecraft:item/carrot_on_a_stick"
+        }
+    ]
+}

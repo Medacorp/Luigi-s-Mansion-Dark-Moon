@@ -1,0 +1,214 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/diamond_pickaxe"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 0
+            },
+            "model": "luigis_mansion_dark_moon:entity/e_gadd/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 0
+            },
+            "model": "luigis_mansion_dark_moon:entity/e_gadd/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 0
+            },
+            "model": "luigis_mansion_dark_moon:entity/e_gadd/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 1
+            },
+            "model": "luigis_mansion_dark_moon:entity/e_gadd/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 1
+            },
+            "model": "luigis_mansion_dark_moon:entity/e_gadd/right_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 1
+            },
+            "model": "luigis_mansion_dark_moon:entity/e_gadd/left_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0025,
+                "custom_model_data": 0
+            },
+            "model": "luigis_mansion_dark_moon:entity/gold_coin"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0025,
+                "custom_model_data": 1
+            },
+            "model": "luigis_mansion_dark_moon:entity/bill"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0025,
+                "custom_model_data": 2
+            },
+            "model": "luigis_mansion_dark_moon:entity/bill_stack"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0025,
+                "custom_model_data": 3
+            },
+            "model": "luigis_mansion_dark_moon:entity/gold_bar"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0025,
+                "custom_model_data": 4
+            },
+            "model": "luigis_mansion_dark_moon:entity/heart"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0025,
+                "custom_model_data": 5
+            },
+            "model": "luigis_mansion_dark_moon:entity/gold_bone"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0025,
+                "custom_model_data": 6
+            },
+            "model": "luigis_mansion_dark_moon:entity/red_coin"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0025,
+                "custom_model_data": 7
+            },
+            "model": "luigis_mansion_dark_moon:entity/key"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0025,
+                "custom_model_data": 8
+            },
+            "model": "luigis_mansion_dark_moon:entity/strobulb"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0025,
+                "custom_model_data": 9
+            },
+            "model": "luigis_mansion_dark_moon:entity/gear"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0025,
+                "custom_model_data": 10
+            },
+            "model": "luigis_mansion_dark_moon:entity/dark_light_device"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0025,
+                "custom_model_data": 11
+            },
+            "model": "luigis_mansion_dark_moon:entity/pinwheel_vane"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0025,
+                "custom_model_data": 12
+            },
+            "model": "luigis_mansion_dark_moon:entity/special_key"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0025,
+                "custom_model_data": 13
+            },
+            "model": "luigis_mansion_dark_moon:entity/chewed_up_special_key"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0025,
+                "custom_model_data": 14
+            },
+            "model": "luigis_mansion_dark_moon:entity/special_compass"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0025,
+                "custom_model_data": 15
+            },
+            "model": "luigis_mansion_dark_moon:entity/minute_hand"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0025,
+                "custom_model_data": 16
+            },
+            "model": "luigis_mansion_dark_moon:entity/hour_hand"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0025,
+                "custom_model_data": 17
+            },
+            "model": "luigis_mansion_dark_moon:entity/rotor"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0025,
+                "custom_model_data": 18
+            },
+            "model": "luigis_mansion_dark_moon:entity/front_door_key"
+        },
+        {
+            "predicate": {
+                "damaged": 1
+            },
+            "model": "minecraft:item/diamond_pickaxe"
+        }
+    ]
+}
