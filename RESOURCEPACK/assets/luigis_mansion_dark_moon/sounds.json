@@ -1,30 +1,19 @@
 {
-    "records.1_star": {
+    "entity.player.yell": {
         "sounds": [
             {
-                "name": "luigis_mansion_dark_moon:records/1_star",
-                "stream": true,
-                "volume": 0.0005
+                "name": "luigis_mansion_dark_moon:entity/player/yell"
             }
-        ]
+        ],
+        "subtitle": "luigis_mansion_dark_moon:subtitles.entity.player.yell"
     },
-    "records.2_stars": {
+    "entity.player.yell_mario": {
         "sounds": [
             {
-                "name": "luigis_mansion_dark_moon:records/2_stars",
-                "stream": true,
-                "volume": 0.0005
+                "name": "luigis_mansion_dark_moon:entity/player/yell_mario"
             }
-        ]
-    },
-    "records.3_stars": {
-        "sounds": [
-            {
-                "name": "luigis_mansion_dark_moon:records/3_stars",
-                "stream": true,
-                "volume": 0.0005
-            }
-        ]
+        ],
+        "subtitle": "luigis_mansion_dark_moon:subtitles.entity.player.yell"
     },
     "item.gold_bone.appear": {
         "sounds": [
@@ -8151,7 +8140,7 @@
                 "volume": 0.0005
             }
         ]
-    
+    },
     "music.old_clockworks.watch_possessor": {
         "sounds": [
             {
@@ -11499,11 +11488,38 @@
                 "volume": 0.0005
             }
         ]
-    }m
+    },
     "music.treacherous_mansion.toads_send_to_bunker": {
         "sounds": [
             {
                 "name": "luigis_mansion_dark_moon:music/treacherous_mansion/toads_send_to_bunker",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "records.1_star": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:records/1_star",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "records.2_stars": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:records/2_stars",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "records.3_stars": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:records/3_stars",
                 "stream": true,
                 "volume": 0.0005
             }

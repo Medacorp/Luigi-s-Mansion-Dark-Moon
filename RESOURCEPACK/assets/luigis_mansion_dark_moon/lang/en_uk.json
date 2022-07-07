@@ -1952,6 +1952,8 @@
 "luigis_mansion_dark_moon:item.dark_light_goggles": "Dark-Light Goggles",
 "luigis_mansion_dark_moon:item.dark_moon_piece": "Dark Moon Piece",
 "luigis_mansion_dark_moon:item.diamond": "Diamond",
+"luigis_mansion_dark_moon:item.dual_scream": "Dual Scream",
+"luigis_mansion_dark_moon:item.dual_scream.unnamed": "DS",
 "luigis_mansion_dark_moon:item.emerald": "Emerald",
 "luigis_mansion_dark_moon:item.flashlight": "Torch",
 "luigis_mansion_dark_moon:item.front_door_key": "Front Door Key",
@@ -2801,5 +2803,6 @@
 "luigis_mansion_dark_moon:mission.final.title": "Shatter the Illusion",
 "luigis_mansion_dark_moon:mission.locked": "Boos are still wreaking havoc somewhere in this location! Capture all of the Boos in the mansion to unlock this mission.",
 "luigis_mansion_dark_moon:mission.locked.out_of": "Captured Boos in %1$s out of %2$s missions.",
+"luigis_mansion_dark_moon:subtitles.entity.player.yell": "Player calls out",
 "luigis_mansion_dark_moon:subtitles.item.gold_bone.appear": "Gold Bone appears"
 }
