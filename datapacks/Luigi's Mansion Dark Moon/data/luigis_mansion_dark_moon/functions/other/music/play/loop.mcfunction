@@ -1,5 +1,6 @@
+scoreboard players set @s[scores={MusicType=-121..-120}] MusicType 83
 scoreboard players set @s[scores={MusicType=-29..-25}] MusicType 121
-scoreboard players set @s[scores={MusicType=-19..-17}] MusicType 125
+scoreboard players set @s[scores={MusicType=-19..-17}] MusicType 124
 scoreboard players set @s[scores={MusicType=-10..-5}] MusicType 0
 scoreboard players set @s[scores={MusicType=-2}] MusicType 0
 scoreboard players set @s[scores={MusicType=..-1}] MusicType 1000
@@ -155,19 +156,19 @@ playsound luigis_mansion_dark_moon:music.king_boos_illusion.phase_4 music @s[sco
 scoreboard players set @s[scores={MusicType=86}] Music 600
 playsound luigis_mansion_dark_moon:music.king_boos_illusion.phase_5 music @s[scores={MusicType=87}] ~ ~ ~ 1000
 scoreboard players set @s[scores={MusicType=87}] Music 619
-playsound luigis_mansion_dark_moon:music.big_boo.sucking_tongue music @s[scores={MusicType=88}] ~ ~ ~ 1000
+playsound luigis_mansion_dark_moon:music.treacherous_mansion.big_boo.sucking_tongue music @s[scores={MusicType=88}] ~ ~ ~ 1000
 scoreboard players set @s[scores={MusicType=88}] Music 137
-playsound luigis_mansion_dark_moon:music.big_boo.large music @s[scores={MusicType=89}] ~ ~ ~ 1000
+playsound luigis_mansion_dark_moon:music.treacherous_mansion.big_boo.large music @s[scores={MusicType=89}] ~ ~ ~ 1000
 scoreboard players set @s[scores={MusicType=89}] Music 739
-playsound luigis_mansion_dark_moon:music.big_boo.medium music @s[scores={MusicType=90}] ~ ~ ~ 1000
+playsound luigis_mansion_dark_moon:music.treacherous_mansion.big_boo.medium music @s[scores={MusicType=90}] ~ ~ ~ 1000
 scoreboard players set @s[scores={MusicType=90}] Music 636
-playsound luigis_mansion_dark_moon:music.big_boo.small music @s[scores={MusicType=91}] ~ ~ ~ 1000
+playsound luigis_mansion_dark_moon:music.treacherous_mansion.big_boo.small music @s[scores={MusicType=91}] ~ ~ ~ 1000
 scoreboard players set @s[scores={MusicType=91}] Music 570
-playsound luigis_mansion_dark_moon:music.big_boo.popped.few_captured music @s[scores={MusicType=92}] ~ ~ ~ 1000
+playsound luigis_mansion_dark_moon:music.treacherous_mansion.big_boo.popped.few_captured music @s[scores={MusicType=92}] ~ ~ ~ 1000
 scoreboard players set @s[scores={MusicType=92}] Music 320
-playsound luigis_mansion_dark_moon:music.big_boo.popped.some_captured music @s[scores={MusicType=93}] ~ ~ ~ 1000
+playsound luigis_mansion_dark_moon:music.treacherous_mansion.big_boo.popped.some_captured music @s[scores={MusicType=93}] ~ ~ ~ 1000
 scoreboard players set @s[scores={MusicType=93}] Music 273
-playsound luigis_mansion_dark_moon:music.big_boo.popped.most_captured music @s[scores={MusicType=94}] ~ ~ ~ 1000
+playsound luigis_mansion_dark_moon:music.treacherous_mansion.big_boo.popped.most_captured music @s[scores={MusicType=94}] ~ ~ ~ 1000
 scoreboard players set @s[scores={MusicType=94}] Music 264
 playsound luigis_mansion_dark_moon:music.gloomy_manor.ghost_rush.speed_1 music @s[scores={MusicType=95}] ~ ~ ~ 1000
 scoreboard players set @s[scores={MusicType=95}] Music 872
@@ -234,6 +235,10 @@ scoreboard players set @s[scores={MusicType=125}] Music 334
 playsound luigis_mansion_dark_moon:music.scarescraper.running_out_of_time.speed_1 music @s[scores={MusicType=126}] ~ ~ ~ 1000
 scoreboard players set @s[scores={MusicType=126}] Music 17
 playsound luigis_mansion_dark_moon:music.scarescraper.running_out_of_time.speed_2 music @s[scores={MusicType=127}] ~ ~ ~ 1000
-scoreboard players set @s[scores={MusicType=127}] Music 
+scoreboard players set @s[scores={MusicType=127}] Music 12
 playsound luigis_mansion_dark_moon:music.scarescraper.running_out_of_time.speed_3 music @s[scores={MusicType=128}] ~ ~ ~ 1000
-scoreboard players set @s[scores={MusicType=128}] Music 
+scoreboard players set @s[scores={MusicType=128}] Music 11
+playsound luigis_mansion_dark_moon:music.secret_mine.frozen_pit music @s[scores={MusicType=129}] ~ ~ ~ 1000
+scoreboard players set @s[scores={MusicType=129}] Music 700
+playsound luigis_mansion_dark_moon:music.treacherous_mansion.terrace music @s[scores={MusicType=130}] ~ ~ ~ 1000
+scoreboard players set @s[scores={MusicType=130}] Music 1163

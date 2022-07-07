@@ -64,10 +64,18 @@
         {
             "predicate": {
                 "damaged": 0,
-                "damage": 0.0125,
-                "custom_model_data": 3
+                "damage": 0.025,
+                "custom_model_data": 2
             },
-            "model": "luigis_mansion_dark_moon:entity/luigi/head_2"
+            "model": "luigis_mansion_dark_moon:entity/luigi/body_strobulbless_poltergust_right"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0375,
+                "custom_model_data": 2
+            },
+            "model": "luigis_mansion_dark_moon:entity/luigi/body_strobulbless_poltergust_right"
         },
         {
             "predicate": {
@@ -75,7 +83,7 @@
                 "damage": 0.025,
                 "custom_model_data": 3
             },
-            "model": "luigis_mansion_dark_moon:entity/luigi/right_arm_2"
+            "model": "luigis_mansion_dark_moon:entity/luigi/body_poltergust_right"
         },
         {
             "predicate": {
@@ -83,15 +91,7 @@
                 "damage": 0.0375,
                 "custom_model_data": 3
             },
-            "model": "luigis_mansion_dark_moon:entity/luigi/left_arm_2"
-        },
-        {
-            "predicate": {
-                "damaged": 0,
-                "damage": 0.0125,
-                "custom_model_data": 4
-            },
-            "model": "luigis_mansion_dark_moon:entity/luigi/body_2"
+            "model": "luigis_mansion_dark_moon:entity/luigi/body_poltergust_right"
         },
         {
             "predicate": {
@@ -99,7 +99,7 @@
                 "damage": 0.025,
                 "custom_model_data": 4
             },
-            "model": "luigis_mansion_dark_moon:entity/luigi/right_leg_2"
+            "model": "luigis_mansion_dark_moon:entity/luigi/body_super_poltergust_right"
         },
         {
             "predicate": {
@@ -107,7 +107,7 @@
                 "damage": 0.0375,
                 "custom_model_data": 4
             },
-            "model": "luigis_mansion_dark_moon:entity/luigi/left_leg_2"
+            "model": "luigis_mansion_dark_moon:entity/luigi/body_super_poltergust_right"
         },
         {
             "predicate": {
@@ -115,7 +115,103 @@
                 "damage": 0.0125,
                 "custom_model_data": 5
             },
+            "model": "luigis_mansion_dark_moon:entity/luigi/head_2"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.025,
+                "custom_model_data": 5
+            },
+            "model": "luigis_mansion_dark_moon:entity/luigi/right_arm_2"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0375,
+                "custom_model_data": 5
+            },
+            "model": "luigis_mansion_dark_moon:entity/luigi/left_arm_2"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0125,
+                "custom_model_data": 6
+            },
+            "model": "luigis_mansion_dark_moon:entity/luigi/body_2"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.025,
+                "custom_model_data": 6
+            },
+            "model": "luigis_mansion_dark_moon:entity/luigi/right_leg_2"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0375,
+                "custom_model_data": 6
+            },
+            "model": "luigis_mansion_dark_moon:entity/luigi/left_leg_2"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0125,
+                "custom_model_data": 7
+            },
             "model": "luigis_mansion_dark_moon:entity/luigi/head_dead_2"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.025,
+                "custom_model_data": 7
+            },
+            "model": "luigis_mansion_dark_moon:entity/luigi/body_strobulbless_poltergust_right_2"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0375,
+                "custom_model_data": 7
+            },
+            "model": "luigis_mansion_dark_moon:entity/luigi/body_strobulbless_poltergust_right_2"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.025,
+                "custom_model_data": 8
+            },
+            "model": "luigis_mansion_dark_moon:entity/luigi/body_poltergust_right_2"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0375,
+                "custom_model_data": 8
+            },
+            "model": "luigis_mansion_dark_moon:entity/luigi/body_poltergust_right_2"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.025,
+                "custom_model_data": 9
+            },
+            "model": "luigis_mansion_dark_moon:entity/luigi/body_super_poltergust_right_2"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0375,
+                "custom_model_data": 9
+            },
+            "model": "luigis_mansion_dark_moon:entity/luigi/body_super_poltergust_right_2"
         },
         {
             "predicate": {

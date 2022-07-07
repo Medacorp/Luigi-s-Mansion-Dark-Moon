@@ -1,4 +1,31 @@
 {
+    "records.1_star": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:records/1_star",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "records.2_stars": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:records/2_stars",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "records.3_stars": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:records/3_stars",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
     "item.gold_bone.appear": {
         "sounds": [
             {
@@ -6,78 +33,6 @@
             }
         ],
         "subtitle": "luigis_mansion_dark_moon:subtitles.item.gold_bone.appear"
-    },
-    "music.big_boo.captured": {
-        "sounds": [
-            {
-                "name": "luigis_mansion_dark_moon:music/big_boo/captured",
-                "stream": true,
-                "volume": 0.0005
-            }
-        ]
-    },
-    "music.big_boo.large": {
-        "sounds": [
-            {
-                "name": "luigis_mansion_dark_moon:music/big_boo/large",
-                "stream": true,
-                "volume": 0.0005
-            }
-        ]
-    },
-    "music.big_boo.medium": {
-        "sounds": [
-            {
-                "name": "luigis_mansion_dark_moon:music/big_boo/medium",
-                "stream": true,
-                "volume": 0.0005
-            }
-        ]
-    },
-    "music.big_boo.popped.few_captured": {
-        "sounds": [
-            {
-                "name": "luigis_mansion_dark_moon:music/big_boo/popped/few_captured",
-                "stream": true,
-                "volume": 0.0005
-            }
-        ]
-    },
-    "music.big_boo.popped.most_captured": {
-        "sounds": [
-            {
-                "name": "luigis_mansion_dark_moon:music/big_boo/popped/most_captured",
-                "stream": true,
-                "volume": 0.0005
-            }
-        ]
-    },
-    "music.big_boo.popped.some_captured": {
-        "sounds": [
-            {
-                "name": "luigis_mansion_dark_moon:music/big_boo/popped/some_captured",
-                "stream": true,
-                "volume": 0.0005
-            }
-        ]
-    },
-    "music.big_boo.small": {
-        "sounds": [
-            {
-                "name": "luigis_mansion_dark_moon:music/big_boo/small",
-                "stream": true,
-                "volume": 0.0005
-            }
-        ]
-    },
-    "music.big_boo.sucking_tongue": {
-        "sounds": [
-            {
-                "name": "luigis_mansion_dark_moon:music/big_boo/sucking_tongue",
-                "stream": true,
-                "volume": 0.0005
-            }
-        ]
     },
     "music.boss_escaped": {
         "sounds": [
@@ -403,6 +358,33 @@
             }
         ]
     },
+    "music.gloomy_manor.boo_appears": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/gloomy_manor/boo_appears",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.gloomy_manor.boo_in_dining_room": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/gloomy_manor/boo_in_dining_room",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.gloomy_manor.boo_in_lab": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/gloomy_manor/boo_in_lab",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
     "music.gloomy_manor.boss.appear": {
         "sounds": [
             {
@@ -416,6 +398,24 @@
         "sounds": [
             {
                 "name": "luigis_mansion_dark_moon:music/gloomy_manor/boss/catching",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.gloomy_manor.boss.cleared": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/gloomy_manor/boss/cleared",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.gloomy_manor.boss.intro": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/gloomy_manor/boss/intro",
                 "stream": true,
                 "volume": 0.0005
             }
@@ -448,10 +448,28 @@
             }
         ]
     },
+    "music.gloomy_manor.dark_light_device_taken": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/gloomy_manor/dark_light_device_taken",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
     "music.gloomy_manor.distant_piano": {
         "sounds": [
             {
                 "name": "luigis_mansion_dark_moon:music/gloomy_manor/distant_piano",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.gloomy_manor.elevator": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/gloomy_manor/elevator",
                 "stream": true,
                 "volume": 0.0005
             }
@@ -466,10 +484,28 @@
             }
         ]
     },
+    "music.gloomy_manor.enter": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/gloomy_manor/enter",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
     "music.gloomy_manor.garage": {
         "sounds": [
             {
                 "name": "luigis_mansion_dark_moon:music/gloomy_manor/garage",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.gloomy_manor.gears_dont_fit": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/gloomy_manor/gears_dont_fit",
                 "stream": true,
                 "volume": 0.0005
             }
@@ -506,6 +542,60 @@
         "sounds": [
             {
                 "name": "luigis_mansion_dark_moon:music/gloomy_manor/ghost_rush/speed_4",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.gloomy_manor.greenie_runs_with_key": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/gloomy_manor/greenie_runs_with_key",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.gloomy_manor.greenies_fighting_who_hides_strobulb": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/gloomy_manor/greenies_fighting_who_hides_strobulb",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.gloomy_manor.greenies_hid_strobulb": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/gloomy_manor/greenies_hid_strobulb",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.gloomy_manor.greenies_in_garage": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/gloomy_manor/greenies_in_garage",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.gloomy_manor.greenies_play_catch_with_strobulb": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/gloomy_manor/greenies_play_catch_with_strobulb",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.gloomy_manor.hider_haunts_stairs": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/gloomy_manor/hider_haunts_stairs",
                 "stream": true,
                 "volume": 0.0005
             }
@@ -1132,6 +1222,42 @@
             }
         ]
     },
+    "music.gloomy_manor.obtain_dark_light_device": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/gloomy_manor/obtain_dark_light_device",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.gloomy_manor.obtain_dark_moon_piece": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/gloomy_manor/obtain_dark_moon_piece",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.gloomy_manor.obtain_poltergust_5000": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/gloomy_manor/obtain_poltergust_5000",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.gloomy_manor.obtain_strobulb": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/gloomy_manor/obtain_strobulb",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
     "music.gloomy_manor.outside.1": {
         "sounds": [
             {
@@ -1744,10 +1870,64 @@
             }
         ]
     },
-    "music.gloomy_manor.pixelize.first": {
+    "music.gloomy_manor.pixelate.boss": {
         "sounds": [
             {
-                "name": "luigis_mansion_dark_moon:music/gloomy_manor/pixelize/first",
+                "name": "luigis_mansion_dark_moon:music/gloomy_manor/pixelate/boss",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.gloomy_manor.pixelate.first": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/gloomy_manor/pixelate/first",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.gloomy_manor.pixelate.generic": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/gloomy_manor/pixelate/generic",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.gloomy_manor.poltergeist_appears": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/gloomy_manor/poltergeist_appears",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.gloomy_manor.polterpup": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/gloomy_manor/polterpup",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.gloomy_manor.restore_crank": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/gloomy_manor/restore_crank",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.gloomy_manor.slammers_steal_gears": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/gloomy_manor/slammers_steal_gears",
                 "stream": true,
                 "volume": 0.0005
             }
@@ -3733,6 +3913,15 @@
             }
         ]
     },
+    "music.haunted_towers.boss.intro": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/haunted_towers/boss/intro",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
     "music.haunted_towers.boss.phase_1": {
         "sounds": [
             {
@@ -3773,6 +3962,15 @@
         "sounds": [
             {
                 "name": "luigis_mansion_dark_moon:music/haunted_towers/eerie_staircase/cleared",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.haunted_towers.eerie_staircase.outro": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/haunted_towers/eerie_staircase/outro",
                 "stream": true,
                 "volume": 0.0005
             }
@@ -3832,6 +4030,15 @@
             }
         ]
     },
+    "music.haunted_towers.flytraps": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/haunted_towers/flytraps",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
     "music.haunted_towers.ghost_rush.speed_1": {
         "sounds": [
             {
@@ -3868,10 +4075,55 @@
             }
         ]
     },
+    "music.haunted_towers.gobber_appears": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/haunted_towers/gobber_appears",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.haunted_towers.greenies_in_graveyard": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/haunted_towers/greenies_in_graveyard",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
     "music.haunted_towers.haunted_graveyard": {
         "sounds": [
             {
                 "name": "luigis_mansion_dark_moon:music/haunted_towers/haunted_graveyard",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.haunted_towers.hider_in_pipe_organ": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/haunted_towers/hider_in_pipe_organ",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.haunted_towers.hiders_steal_pinwheel_vanes": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/haunted_towers/hiders_steal_pinwheel_vanes",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.haunted_towers.hollow_tree_drop": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/haunted_towers/hollow_tree_drop",
                 "stream": true,
                 "volume": 0.0005
             }
@@ -4579,6 +4831,15 @@
             }
         ]
     },
+    "music.haunted_towers.obtain_dark_moon_piece": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/haunted_towers/obtain_dark_moon_piece",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
     "music.haunted_towers.outside.1": {
         "sounds": [
             {
@@ -5281,10 +5542,55 @@
             }
         ]
     },
+    "music.haunted_towers.pixelate.boss": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/haunted_towers/pixelate/boss",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.haunted_towers.pixelate.first": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/haunted_towers/pixelate/first",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.haunted_towers.pixelate.generic": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/haunted_towers/pixelate/generic",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
     "music.haunted_towers.polterpup": {
         "sounds": [
             {
                 "name": "luigis_mansion_dark_moon:music/haunted_towers/polterpup",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.haunted_towers.polterpup_chase": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/haunted_towers/polterpup_chase",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.haunted_towers.repair_pinwheel_gate": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/haunted_towers/repair_pinwheel_gate",
                 "stream": true,
                 "volume": 0.0005
             }
@@ -5299,10 +5605,82 @@
             }
         ]
     },
+    "music.haunted_towers.sneaker_appears": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/haunted_towers/sneaker_appears",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.haunted_towers.three_sisters_appear": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/haunted_towers/three_sisters_appear",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.haunted_towers.toad_appears": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/haunted_towers/toad_appears",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.haunted_towers.toad_send_to_bunker": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/haunted_towers/toad_send_to_bunker",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
     "music.king_boos_illusion.catching": {
         "sounds": [
             {
                 "name": "luigis_mansion_dark_moon:music/king_boos_illusion/catching",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.king_boos_illusion.ending": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/king_boos_illusion/ending",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.king_boos_illusion.into_hallway": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/king_boos_illusion/into_hallway",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.king_boos_illusion.intro": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/king_boos_illusion/intro",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.king_boos_illusion.out_of_hallway": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/king_boos_illusion/out_of_hallway",
                 "stream": true,
                 "volume": 0.0005
             }
@@ -5348,6 +5726,24 @@
         "sounds": [
             {
                 "name": "luigis_mansion_dark_moon:music/king_boos_illusion/phase_5",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.king_boos_illusion.pixelate": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/king_boos_illusion/pixelate",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.king_boos_illusion.return_to_mansion": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/king_boos_illusion/return_to_mansion",
                 "stream": true,
                 "volume": 0.0005
             }
@@ -5407,10 +5803,37 @@
             }
         ]
     },
+    "music.old_clockworks.ancient_poltergeist_appears": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/old_clockworks/ancient_poltergeist_appears",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.old_clockworks.ancient_poltergeist_spotted": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/old_clockworks/ancient_poltergeist_spotted",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
     "music.old_clockworks.antechamber": {
         "sounds": [
             {
                 "name": "luigis_mansion_dark_moon:music/old_clockworks/antechamber",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.old_clockworks.boo_hangs_painting": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/old_clockworks/boo_hangs_painting",
                 "stream": true,
                 "volume": 0.0005
             }
@@ -5429,6 +5852,24 @@
         "sounds": [
             {
                 "name": "luigis_mansion_dark_moon:music/old_clockworks/boss/catching",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.old_clockworks.boss.cleared": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/old_clockworks/boss/cleared",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.old_clockworks.boss.intro": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/old_clockworks/boss/intro",
                 "stream": true,
                 "volume": 0.0005
             }
@@ -5547,6 +5988,24 @@
             {
                 "name": "luigis_mansion_dark_moon:music/old_clockworks/ghost_rush/speed_4",
                 "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.old_clockworks.go_to_underground": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/old_clockworks/go_to_underground",
+                "stream": false,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.old_clockworks.hider_and_boo_hiding_bomb": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/old_clockworks/hider_and_boo_hiding_bomb",
+                "stream": false,
                 "volume": 0.0005
             }
         ]
@@ -6221,6 +6680,24 @@
         "sounds": [
             {
                 "name": "luigis_mansion_dark_moon:music/old_clockworks/inside/75",
+                "stream": false,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.old_clockworks.mummy_appears": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/old_clockworks/mummy_appears",
+                "stream": false,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.old_clockworks.obtain_dark_moon_piece": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/old_clockworks/obtain_dark_moon_piece",
                 "stream": false,
                 "volume": 0.0005
             }
@@ -6901,10 +7378,28 @@
             }
         ]
     },
-    "music.old_clockworks.pixelize.first": {
+    "music.old_clockworks.pixelate.boss": {
         "sounds": [
             {
-                "name": "luigis_mansion_dark_moon:music/old_clockworks/pixelize/first",
+                "name": "luigis_mansion_dark_moon:music/old_clockworks/pixelate/boss",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.old_clockworks.pixelate.first": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/old_clockworks/pixelate/first",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.old_clockworks.pixelate.generic": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/old_clockworks/pixelate/generic",
                 "stream": true,
                 "volume": 0.0005
             }
@@ -7603,6 +8098,87 @@
             }
         ]
     },
+    "music.old_clockworks.strong_sneaker_flees": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/old_clockworks/strong_sneaker_flees",
+                "stream": false,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.old_clockworks.strong_sneaker_hides_rotor": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/old_clockworks/strong_sneaker_hides_rotor",
+                "stream": false,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.old_clockworks.toad_appears": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/old_clockworks/toad_appears",
+                "stream": false,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.old_clockworks.toad_captured": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/old_clockworks/toad_captured",
+                "stream": false,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.old_clockworks.toad_send_to_bunker": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/old_clockworks/toad_send_to_bunker",
+                "stream": false,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.old_clockworks.unlock_path_to_underground": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/old_clockworks/unlock_path_to_underground",
+                "stream": false,
+                "volume": 0.0005
+            }
+        ]
+    
+    "music.old_clockworks.watch_possessor": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/old_clockworks/watch_possessor",
+                "stream": false,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.old_clockworks.whirlwind_greenies": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/old_clockworks/whirlwind_greenies",
+                "stream": false,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.polterpup_revival": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/polterpup_revival",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
     "music.room_cleared": {
         "sounds": [
             {
@@ -7666,6 +8242,15 @@
             }
         ]
     },
+    "music.scarescraper.roof_cleared": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/scarescraper/roof_cleared",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
     "music.scarescraper.running_out_of_time.speed_1": {
         "sounds": [
             {
@@ -7711,6 +8296,15 @@
             }
         ]
     },
+    "music.secret_mine.boos_in_crystal_quarry": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/secret_mine/e_gates",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
     "music.secret_mine.boss.appear": {
         "sounds": [
             {
@@ -7720,10 +8314,55 @@
             }
         ]
     },
+    "music.secret_mine.boss.back_in_ice": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/secret_mine/boss/back_in_ice",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.secret_mine.boss.break_ice": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/secret_mine/boss/break_ice",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
     "music.secret_mine.boss.catching": {
         "sounds": [
             {
                 "name": "luigis_mansion_dark_moon:music/secret_mine/boss/catching",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.secret_mine.boss.cleared": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/secret_mine/boss/cleared",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.secret_mine.boss.intro": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/secret_mine/boss/intro",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.secret_mine.boss.overheat": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/secret_mine/boss/overheat",
                 "stream": true,
                 "volume": 0.0005
             }
@@ -7756,10 +8395,28 @@
             }
         ]
     },
+    "music.secret_mine.e_gates": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/secret_mine/e_gates",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
     "music.secret_mine.end": {
         "sounds": [
             {
                 "name": "luigis_mansion_dark_moon:music/secret_mine/end",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.secret_mine.frozen_pit": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/frozen_pit/end",
                 "stream": true,
                 "volume": 0.0005
             }
@@ -8476,6 +9133,15 @@
             }
         ]
     },
+    "music.secret_mine.obtain_dark_moon_piece": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/secret_mine/obtain_dark_moon_piece",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
     "music.secret_mine.outside.1": {
         "sounds": [
             {
@@ -9151,10 +9817,37 @@
             }
         ]
     },
-    "music.secret_mine.pixelize.first": {
+    "music.secret_mine.paranormal_chains": {
         "sounds": [
             {
-                "name": "luigis_mansion_dark_moon:music/secret_mine/pixelize/first",
+                "name": "luigis_mansion_dark_moon:music/secret_mine/paranormal_chains",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.secret_mine.pixelate.boss": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/secret_mine/pixelate/boss",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.secret_mine.pixelate.first": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/secret_mine/pixelate/first",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.secret_mine.pixelate.generic": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/secret_mine/pixelate/generic",
                 "stream": true,
                 "volume": 0.0005
             }
@@ -9164,6 +9857,141 @@
         "sounds": [
             {
                 "name": "luigis_mansion_dark_moon:music/secret_mine/restore_power",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.secret_mine.spot_ghosts_carrying_crystals": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/secret_mine/spot_ghosts_carrying_crystals",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.secret_mine.toad_appears": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/secret_mine/toad_appears",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.secret_mine.toad_send_to_bunker": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/secret_mine/toad_send_to_bunker",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.secret_mine.watch_possessor": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/secret_mine/watch_possessor",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.treacherous_mansion.big_boo.appear": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/treacherous_mansion/big_boo/appear",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.treacherous_mansion.big_boo.captured": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/treacherous_mansion/big_boo/captured",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.treacherous_mansion.big_boo.cleared": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/treacherous_mansion/big_boo/cleared",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.treacherous_mansion.big_boo.large": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/treacherous_mansion/big_boo/large",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.treacherous_mansion.big_boo.medium": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/treacherous_mansion/big_boo/medium",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.treacherous_mansion.big_boo.popped.few_captured": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/treacherous_mansion/big_boo/popped/few_captured",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.treacherous_mansion.big_boo.popped.most_captured": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/treacherous_mansion/big_boo/popped/most_captured",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.treacherous_mansion.big_boo.popped.some_captured": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/treacherous_mansion/big_boo/popped/some_captured",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.treacherous_mansion.big_boo.small": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/treacherous_mansion/big_boo/small",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.treacherous_mansion.big_boo.sucking_tongue": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/treacherous_mansion/big_boo/sucking_tongue",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.treacherous_mansion.boo_plays_with_portal": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/treacherous_mansion/boo_plays_with_portal",
                 "stream": true,
                 "volume": 0.0005
             }
@@ -9182,6 +10010,42 @@
         "sounds": [
             {
                 "name": "luigis_mansion_dark_moon:music/treacherous_mansion/boss/catching",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.treacherous_mansion.boss.cleared": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/treacherous_mansion/boss/cleared",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.treacherous_mansion.boss.giant_defeated": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/treacherous_mansion/boss/giant_defeated",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.treacherous_mansion.boss.giant_intro": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/treacherous_mansion/boss/giant_intro",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.treacherous_mansion.boss.intro": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/treacherous_mansion/boss/intro",
                 "stream": true,
                 "volume": 0.0005
             }
@@ -9227,6 +10091,24 @@
         "sounds": [
             {
                 "name": "luigis_mansion_dark_moon:music/treacherous_mansion/end",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.treacherous_mansion.enter": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/treacherous_mansion/enter",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.treacherous_mansion.frankenstein": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/treacherous_mansion/frankenstein",
                 "stream": true,
                 "volume": 0.0005
             }
@@ -9961,6 +10843,42 @@
             }
         ]
     },
+    "music.treacherous_mansion.living_armor": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/treacherous_mansion/living_armor",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.treacherous_mansion.mamoth": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/treacherous_mansion/mamoth",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.treacherous_mansion.mummies": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/treacherous_mansion/mummies",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.treacherous_mansion.obtain_dark_moon_piece": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/treacherous_mansion/obtain_dark_moon_piece",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
     "music.treacherous_mansion.outside.1": {
         "sounds": [
             {
@@ -10488,6 +11406,105 @@
             {
                 "name": "luigis_mansion_dark_moon:music/treacherous_mansion/outside/59",
                 "stream": false,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.treacherous_mansion.pixelate.boss": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/treacherous_mansion/pixelate/boss",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.treacherous_mansion.pixelate.first": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/treacherous_mansion/pixelate/first",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.treacherous_mansion.pixelate.generic": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/treacherous_mansion/pixelate/generic",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.treacherous_mansion.polterpup": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/treacherous_mansion/polterpup",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.treacherous_mansion.portal_opens": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/treacherous_mansion/portal_opens",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.treacherous_mansion.strong_poltergeist_appears": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/treacherous_mansion/strong_poltergeist_appears",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.treacherous_mansion.terrace": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/treacherous_mansion/terrace",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.treacherous_mansion.toad_appears_ice_age": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/treacherous_mansion/toad_appears_ice_age",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.treacherous_mansion.toad_appears_jungle": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/treacherous_mansion/toad_appears_jungle",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    },
+    "music.treacherous_mansion.toads_into_paintings": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/treacherous_mansion/toads_into_paintings",
+                "stream": true,
+                "volume": 0.0005
+            }
+        ]
+    }m
+    "music.treacherous_mansion.toads_send_to_bunker": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:music/treacherous_mansion/toads_send_to_bunker",
+                "stream": true,
                 "volume": 0.0005
             }
         ]

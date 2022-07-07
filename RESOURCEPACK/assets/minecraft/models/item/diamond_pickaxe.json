@@ -55,6 +55,5502 @@
         {
             "predicate": {
                 "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 2
+            },
+            "model": "luigis_mansion_dark_moon:entity/toad/red/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 2
+            },
+            "model": "luigis_mansion_dark_moon:entity/toad/red/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 2
+            },
+            "model": "luigis_mansion_dark_moon:entity/toad/red/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 3
+            },
+            "model": "luigis_mansion_dark_moon:entity/toad/red/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 3
+            },
+            "model": "luigis_mansion_dark_moon:entity/toad/red/right_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 3
+            },
+            "model": "luigis_mansion_dark_moon:entity/toad/red/left_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 4
+            },
+            "model": "luigis_mansion_dark_moon:entity/toad/yellow/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 4
+            },
+            "model": "luigis_mansion_dark_moon:entity/toad/yellow/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 4
+            },
+            "model": "luigis_mansion_dark_moon:entity/toad/yellow/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 5
+            },
+            "model": "luigis_mansion_dark_moon:entity/toad/yellow/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 5
+            },
+            "model": "luigis_mansion_dark_moon:entity/toad/yellow/right_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 5
+            },
+            "model": "luigis_mansion_dark_moon:entity/toad/yellow/left_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 6
+            },
+            "model": "luigis_mansion_dark_moon:entity/toad/blue/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 6
+            },
+            "model": "luigis_mansion_dark_moon:entity/toad/blue/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 6
+            },
+            "model": "luigis_mansion_dark_moon:entity/toad/blue/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 7
+            },
+            "model": "luigis_mansion_dark_moon:entity/toad/blue/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 7
+            },
+            "model": "luigis_mansion_dark_moon:entity/toad/blue/right_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 7
+            },
+            "model": "luigis_mansion_dark_moon:entity/toad/blue/left_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 8
+            },
+            "model": "luigis_mansion_dark_moon:entity/toad/green/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 8
+            },
+            "model": "luigis_mansion_dark_moon:entity/toad/green/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 8
+            },
+            "model": "luigis_mansion_dark_moon:entity/toad/green/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 9
+            },
+            "model": "luigis_mansion_dark_moon:entity/toad/green/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 9
+            },
+            "model": "luigis_mansion_dark_moon:entity/toad/green/right_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 9
+            },
+            "model": "luigis_mansion_dark_moon:entity/toad/green/left_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 10
+            },
+            "model": "luigis_mansion_dark_moon:entity/toad/purple/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 10
+            },
+            "model": "luigis_mansion_dark_moon:entity/toad/purple/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 10
+            },
+            "model": "luigis_mansion_dark_moon:entity/toad/purple/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 11
+            },
+            "model": "luigis_mansion_dark_moon:entity/toad/purple/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 11
+            },
+            "model": "luigis_mansion_dark_moon:entity/toad/purple/right_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 11
+            },
+            "model": "luigis_mansion_dark_moon:entity/toad/purple/left_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 12
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 12
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 12
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 13
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 13
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie/right_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 13
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie/left_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 14
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie/head_frowning"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 15
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 16
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie/head_pupils"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 17
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie/head_pupils_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 18
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_greenie/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 18
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_greenie/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 18
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_greenie/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 19
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_greenie/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 19
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_greenie/right_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 19
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_greenie/left_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 20
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_greenie/head_frowning"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 21
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_greenie/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 22
+            },
+            "model": "luigis_mansion_dark_moon:entity/paranormal_chain_greenie/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 22
+            },
+            "model": "luigis_mansion_dark_moon:entity/paranormal_chain_greenie/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 22
+            },
+            "model": "luigis_mansion_dark_moon:entity/paranormal_chain_greenie/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 23
+            },
+            "model": "luigis_mansion_dark_moon:entity/paranormal_chain_greenie/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 23
+            },
+            "model": "luigis_mansion_dark_moon:entity/paranormal_chain_greenie/right_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 23
+            },
+            "model": "luigis_mansion_dark_moon:entity/paranormal_chain_greenie/left_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 24
+            },
+            "model": "luigis_mansion_dark_moon:entity/paranormal_chain_greenie/head_frowning"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 25
+            },
+            "model": "luigis_mansion_dark_moon:entity/paranormal_chain_greenie/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 26
+            },
+            "model": "luigis_mansion_dark_moon:entity/gold_greenie/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 26
+            },
+            "model": "luigis_mansion_dark_moon:entity/gold_greenie/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 26
+            },
+            "model": "luigis_mansion_dark_moon:entity/gold_greenie/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 27
+            },
+            "model": "luigis_mansion_dark_moon:entity/gold_greenie/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 27
+            },
+            "model": "luigis_mansion_dark_moon:entity/gold_greenie/right_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 27
+            },
+            "model": "luigis_mansion_dark_moon:entity/gold_greenie/left_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 28
+            },
+            "model": "luigis_mansion_dark_moon:entity/gold_greenie/head_frowning"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 29
+            },
+            "model": "luigis_mansion_dark_moon:entity/gold_greenie/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 30
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 30
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 30
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 31
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer/head_smiling"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 31
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer/right_arm_open_hand"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 31
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer/left_arm_open_hand"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 32
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 33
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer/head_pupils"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 34
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer/head_pupils_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 35
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_slammer/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 35
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_slammer/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 35
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_slammer/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 36
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_slammer/head_smiling"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 36
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_slammer/right_arm_open_hand"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 36
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_slammer/left_arm_open_hand"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 37
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_slammer/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 38
+            },
+            "model": "luigis_mansion_dark_moon:entity/paranormal_chain_slammer/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 38
+            },
+            "model": "luigis_mansion_dark_moon:entity/paranormal_chain_slammer/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 38
+            },
+            "model": "luigis_mansion_dark_moon:entity/paranormal_chain_slammer/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 39
+            },
+            "model": "luigis_mansion_dark_moon:entity/paranormal_chain_slammer/head_smiling"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 39
+            },
+            "model": "luigis_mansion_dark_moon:entity/paranormal_chain_slammer/right_arm_open_hand"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 39
+            },
+            "model": "luigis_mansion_dark_moon:entity/paranormal_chain_slammer/left_arm_open_hand"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 40
+            },
+            "model": "luigis_mansion_dark_moon:entity/paranormal_chain_slammer/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 41
+            },
+            "model": "luigis_mansion_dark_moon:entity/hider/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 41
+            },
+            "model": "luigis_mansion_dark_moon:entity/hider/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 41
+            },
+            "model": "luigis_mansion_dark_moon:entity/hider/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 42
+            },
+            "model": "luigis_mansion_dark_moon:entity/hider/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 43
+            },
+            "model": "luigis_mansion_dark_moon:entity/hider/head_frowning"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 44
+            },
+            "model": "luigis_mansion_dark_moon:entity/hider/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 45
+            },
+            "model": "luigis_mansion_dark_moon:entity/hider/head_pupils"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 46
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_hider/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 46
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_hider/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 46
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_hider/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 47
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_hider/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 48
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_hider/head_frowning"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 49
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_hider/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 50
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 50
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 50
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 51
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 52
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 53
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_sneaker/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 53
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_sneaker/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 53
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_sneaker/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 54
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_sneaker/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 55
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_sneaker/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 56
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper/big/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 56
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper/big/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 56
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper/big/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 57
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper/big/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 58
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper/big/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 59
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper/big/puddle"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 60
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper/big/blob"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 61
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper/small/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 61
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper/small/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 61
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper/small/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 62
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper/small/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 63
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper/small/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 64
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper/small/puddle"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 65
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper/small/blob"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 66
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 66
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 66
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 67
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 68
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 69
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber/head_pupils"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 70
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_gobber/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 70
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_gobber/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 70
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_gobber/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 71
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_gobber/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 72
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_gobber/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 73
+            },
+            "model": "luigis_mansion_dark_moon:entity/paranormal_chain_gobber/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 73
+            },
+            "model": "luigis_mansion_dark_moon:entity/paranormal_chain_gobber/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 73
+            },
+            "model": "luigis_mansion_dark_moon:entity/paranormal_chain_gobber/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 74
+            },
+            "model": "luigis_mansion_dark_moon:entity/paranormal_chain_gobber/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 75
+            },
+            "model": "luigis_mansion_dark_moon:entity/paranormal_chain_gobber/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 76
+            },
+            "model": "luigis_mansion_dark_moon:entity/poltergeist/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 76
+            },
+            "model": "luigis_mansion_dark_moon:entity/poltergeist/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 76
+            },
+            "model": "luigis_mansion_dark_moon:entity/poltergeist/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 77
+            },
+            "model": "luigis_mansion_dark_moon:entity/poltergeist/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 78
+            },
+            "model": "luigis_mansion_dark_moon:entity/poltergeist/head_smiling"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 79
+            },
+            "model": "luigis_mansion_dark_moon:entity/poltergeist/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 80
+            },
+            "model": "luigis_mansion_dark_moon:entity/poltergeist/head_pupils"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 81
+            },
+            "model": "luigis_mansion_dark_moon:entity/poltergeist/head_pupils_smiling"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 82
+            },
+            "model": "luigis_mansion_dark_moon:entity/ancient_poltergeist/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 82
+            },
+            "model": "luigis_mansion_dark_moon:entity/ancient_poltergeist/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 82
+            },
+            "model": "luigis_mansion_dark_moon:entity/ancient_poltergeist/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 83
+            },
+            "model": "luigis_mansion_dark_moon:entity/ancient_poltergeist/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 84
+            },
+            "model": "luigis_mansion_dark_moon:entity/ancient_poltergeist/head_smiling"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 85
+            },
+            "model": "luigis_mansion_dark_moon:entity/ancient_poltergeist/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 86
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_poltergeist/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 86
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_poltergeist/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 86
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_poltergeist/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 87
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_poltergeist/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 88
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_poltergeist/head_smiling"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 89
+            },
+            "model": "luigis_mansion_dark_moon:entity/strong_poltergeist/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 90
+            },
+            "model": "luigis_mansion_dark_moon:entity/sister_merlinda/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 90
+            },
+            "model": "luigis_mansion_dark_moon:entity/sister_merlinda/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 90
+            },
+            "model": "luigis_mansion_dark_moon:entity/sister_merlinda/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 91
+            },
+            "model": "luigis_mansion_dark_moon:entity/sister_merlinda/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 92
+            },
+            "model": "luigis_mansion_dark_moon:entity/sister_merlinda/head_pupils"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 93
+            },
+            "model": "luigis_mansion_dark_moon:entity/sister_berlinda/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 93
+            },
+            "model": "luigis_mansion_dark_moon:entity/sister_berlinda/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 93
+            },
+            "model": "luigis_mansion_dark_moon:entity/sister_berlinda/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 94
+            },
+            "model": "luigis_mansion_dark_moon:entity/sister_berlinda/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 95
+            },
+            "model": "luigis_mansion_dark_moon:entity/sister_berlinda/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 96
+            },
+            "model": "luigis_mansion_dark_moon:entity/sister_berlinda/head_pupils"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 97
+            },
+            "model": "luigis_mansion_dark_moon:entity/sister_lucinda/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 97
+            },
+            "model": "luigis_mansion_dark_moon:entity/sister_lucinda/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 97
+            },
+            "model": "luigis_mansion_dark_moon:entity/sister_lucinda/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 98
+            },
+            "model": "luigis_mansion_dark_moon:entity/sister_lucinda/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 99
+            },
+            "model": "luigis_mansion_dark_moon:entity/sister_lucinda/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 100
+            },
+            "model": "luigis_mansion_dark_moon:entity/sister_lucinda/head_pupils"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 101
+            },
+            "model": "luigis_mansion_dark_moon:entity/grouchy_possessor/white/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 101
+            },
+            "model": "luigis_mansion_dark_moon:entity/grouchy_possessor/white/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 101
+            },
+            "model": "luigis_mansion_dark_moon:entity/grouchy_possessor/white/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 102
+            },
+            "model": "luigis_mansion_dark_moon:entity/grouchy_possessor/white/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 103
+            },
+            "model": "luigis_mansion_dark_moon:entity/grouchy_possessor/white/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 104
+            },
+            "model": "luigis_mansion_dark_moon:entity/grouchy_possessor/white/head_pupils"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 105
+            },
+            "model": "luigis_mansion_dark_moon:entity/grouchy_possessor/yellow/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 105
+            },
+            "model": "luigis_mansion_dark_moon:entity/grouchy_possessor/yellow/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 105
+            },
+            "model": "luigis_mansion_dark_moon:entity/grouchy_possessor/yellow/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 106
+            },
+            "model": "luigis_mansion_dark_moon:entity/grouchy_possessor/yellow/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 107
+            },
+            "model": "luigis_mansion_dark_moon:entity/grouchy_possessor/yellow/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 108
+            },
+            "model": "luigis_mansion_dark_moon:entity/grouchy_possessor/red/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 108
+            },
+            "model": "luigis_mansion_dark_moon:entity/grouchy_possessor/red/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 108
+            },
+            "model": "luigis_mansion_dark_moon:entity/grouchy_possessor/red/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 109
+            },
+            "model": "luigis_mansion_dark_moon:entity/grouchy_possessor/red/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 110
+            },
+            "model": "luigis_mansion_dark_moon:entity/grouchy_possessor/red/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 111
+            },
+            "model": "luigis_mansion_dark_moon:entity/harsh_possessor/white/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 111
+            },
+            "model": "luigis_mansion_dark_moon:entity/harsh_possessor/white/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 111
+            },
+            "model": "luigis_mansion_dark_moon:entity/harsh_possessor/white/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 112
+            },
+            "model": "luigis_mansion_dark_moon:entity/harsh_possessor/white/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 113
+            },
+            "model": "luigis_mansion_dark_moon:entity/harsh_possessor/white/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 114
+            },
+            "model": "luigis_mansion_dark_moon:entity/harsh_possessor/yellow/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 114
+            },
+            "model": "luigis_mansion_dark_moon:entity/harsh_possessor/yellow/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 114
+            },
+            "model": "luigis_mansion_dark_moon:entity/harsh_possessor/yellow/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 115
+            },
+            "model": "luigis_mansion_dark_moon:entity/harsh_possessor/yellow/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 116
+            },
+            "model": "luigis_mansion_dark_moon:entity/harsh_possessor/yellow/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 117
+            },
+            "model": "luigis_mansion_dark_moon:entity/harsh_possessor/red/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 117
+            },
+            "model": "luigis_mansion_dark_moon:entity/harsh_possessor/red/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 117
+            },
+            "model": "luigis_mansion_dark_moon:entity/harsh_possessor/red/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 118
+            },
+            "model": "luigis_mansion_dark_moon:entity/harsh_possessor/red/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 119
+            },
+            "model": "luigis_mansion_dark_moon:entity/harsh_possessor/red/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 120
+            },
+            "model": "luigis_mansion_dark_moon:entity/overset_possessor/white/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 120
+            },
+            "model": "luigis_mansion_dark_moon:entity/overset_possessor/white/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 120
+            },
+            "model": "luigis_mansion_dark_moon:entity/overset_possessor/white/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 121
+            },
+            "model": "luigis_mansion_dark_moon:entity/overset_possessor/white/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 122
+            },
+            "model": "luigis_mansion_dark_moon:entity/overset_possessor/white/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 123
+            },
+            "model": "luigis_mansion_dark_moon:entity/overset_possessor/yellow/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 123
+            },
+            "model": "luigis_mansion_dark_moon:entity/overset_possessor/yellow/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 123
+            },
+            "model": "luigis_mansion_dark_moon:entity/overset_possessor/yellow/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 124
+            },
+            "model": "luigis_mansion_dark_moon:entity/overset_possessor/yellow/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 125
+            },
+            "model": "luigis_mansion_dark_moon:entity/overset_possessor/yellow/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 126
+            },
+            "model": "luigis_mansion_dark_moon:entity/overset_possessor/red/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 126
+            },
+            "model": "luigis_mansion_dark_moon:entity/overset_possessor/red/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 126
+            },
+            "model": "luigis_mansion_dark_moon:entity/overset_possessor/red/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 127
+            },
+            "model": "luigis_mansion_dark_moon:entity/overset_possessor/red/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 128
+            },
+            "model": "luigis_mansion_dark_moon:entity/overset_possessor/red/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 129
+            },
+            "model": "luigis_mansion_dark_moon:entity/shrewd_possessor/white/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 129
+            },
+            "model": "luigis_mansion_dark_moon:entity/shrewd_possessor/white/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 129
+            },
+            "model": "luigis_mansion_dark_moon:entity/shrewd_possessor/white/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 130
+            },
+            "model": "luigis_mansion_dark_moon:entity/shrewd_possessor/white/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 131
+            },
+            "model": "luigis_mansion_dark_moon:entity/shrewd_possessor/white/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 132
+            },
+            "model": "luigis_mansion_dark_moon:entity/shrewd_possessor/yellow/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 132
+            },
+            "model": "luigis_mansion_dark_moon:entity/shrewd_possessor/yellow/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 132
+            },
+            "model": "luigis_mansion_dark_moon:entity/shrewd_possessor/yellow/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 133
+            },
+            "model": "luigis_mansion_dark_moon:entity/shrewd_possessor/yellow/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 134
+            },
+            "model": "luigis_mansion_dark_moon:entity/shrewd_possessor/yellow/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 135
+            },
+            "model": "luigis_mansion_dark_moon:entity/shrewd_possessor/red/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 135
+            },
+            "model": "luigis_mansion_dark_moon:entity/shrewd_possessor/red/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 135
+            },
+            "model": "luigis_mansion_dark_moon:entity/shrewd_possessor/red/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 136
+            },
+            "model": "luigis_mansion_dark_moon:entity/shrewd_possessor/red/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 137
+            },
+            "model": "luigis_mansion_dark_moon:entity/shrewd_possessor/red/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 138
+            },
+            "model": "luigis_mansion_dark_moon:entity/tough_possessor/white/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 138
+            },
+            "model": "luigis_mansion_dark_moon:entity/tough_possessor/white/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 138
+            },
+            "model": "luigis_mansion_dark_moon:entity/tough_possessor/white/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 139
+            },
+            "model": "luigis_mansion_dark_moon:entity/tough_possessor/white/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 140
+            },
+            "model": "luigis_mansion_dark_moon:entity/tough_possessor/white/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 141
+            },
+            "model": "luigis_mansion_dark_moon:entity/tough_possessor/yellow/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 141
+            },
+            "model": "luigis_mansion_dark_moon:entity/tough_possessor/yellow/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 141
+            },
+            "model": "luigis_mansion_dark_moon:entity/tough_possessor/yellow/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 142
+            },
+            "model": "luigis_mansion_dark_moon:entity/tough_possessor/yellow/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 143
+            },
+            "model": "luigis_mansion_dark_moon:entity/tough_possessor/yellow/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 144
+            },
+            "model": "luigis_mansion_dark_moon:entity/tough_possessor/red/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 144
+            },
+            "model": "luigis_mansion_dark_moon:entity/tough_possessor/red/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 144
+            },
+            "model": "luigis_mansion_dark_moon:entity/tough_possessor/red/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 145
+            },
+            "model": "luigis_mansion_dark_moon:entity/tough_possessor/red/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 146
+            },
+            "model": "luigis_mansion_dark_moon:entity/tough_possessor/red/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 147
+            },
+            "model": "luigis_mansion_dark_moon:entity/polterpup/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 147
+            },
+            "model": "luigis_mansion_dark_moon:entity/polterpup/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 147
+            },
+            "model": "luigis_mansion_dark_moon:entity/polterpup/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 148
+            },
+            "model": "luigis_mansion_dark_moon:entity/polterpup/body_red_collar"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 148
+            },
+            "model": "luigis_mansion_dark_moon:entity/polterpup/right_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 148
+            },
+            "model": "luigis_mansion_dark_moon:entity/polterpup/left_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 149
+            },
+            "model": "luigis_mansion_dark_moon:entity/polterpup/body_blue_collar"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 150
+            },
+            "model": "luigis_mansion_dark_moon:entity/polterpup/tail"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 151
+            },
+            "model": "luigis_mansion_dark_moon:entity/polterpup/head_toungue_out"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 151
+            },
+            "model": "luigis_mansion_dark_moon:entity/polterpup/head_toungue_out_right"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 151
+            },
+            "model": "luigis_mansion_dark_moon:entity/polterpup/head_toungue_out_left"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 152
+            },
+            "model": "luigis_mansion_dark_moon:entity/polterpup/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 153
+            },
+            "model": "luigis_mansion_dark_moon:entity/polterpup/head_pupils"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 154
+            },
+            "model": "luigis_mansion_dark_moon:entity/polterpup/head_pupils_toungue_out"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 155
+            },
+            "model": "luigis_mansion_dark_moon:entity/polterpup/head_pupils_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 156
+            },
+            "model": "luigis_mansion_dark_moon:entity/polterpup/gold_head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 156
+            },
+            "model": "luigis_mansion_dark_moon:entity/polterpup/gold_right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 156
+            },
+            "model": "luigis_mansion_dark_moon:entity/polterpup/gold_left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 157
+            },
+            "model": "luigis_mansion_dark_moon:entity/polterpup/gold_body_red_collar"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 157
+            },
+            "model": "luigis_mansion_dark_moon:entity/polterpup/gold_right_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 157
+            },
+            "model": "luigis_mansion_dark_moon:entity/polterpup/gold_left_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 158
+            },
+            "model": "luigis_mansion_dark_moon:entity/polterpup/gold_body_blue_collar"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 159
+            },
+            "model": "luigis_mansion_dark_moon:entity/polterpup/gold_tail"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 160
+            },
+            "model": "luigis_mansion_dark_moon:entity/polterpup/gold_head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 161
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_polterpup/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 161
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_polterpup/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 161
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_polterpup/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 162
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_polterpup/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 162
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_polterpup/right_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 162
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_polterpup/left_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 163
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_polterpup/tail"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 164
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_polterpup/head_toungue_out"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 165
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_polterpup/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 166
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_polterpup/gold_head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 166
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_polterpup/gold_right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 166
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_polterpup/gold_left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 167
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_polterpup/gold_body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 167
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_polterpup/gold_right_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 167
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_polterpup/gold_left_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 168
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_polterpup/gold_tail"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 169
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_polterpup/gold_head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 170
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/bomb_brother/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 170
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/bomb_brother/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 170
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/bomb_brother/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 171
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/bomb_brother/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 171
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/bomb_brother/right_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 171
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/bomb_brother/left_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 172
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/bomb_brother/head_frowning"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 173
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/bomb_brother/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 174
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/fright_knight/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 174
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/fright_knight/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 174
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/fright_knight/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 175
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/fright_knight/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 175
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/fright_knight/right_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 175
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/fright_knight/left_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 176
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/fright_knight/head_frowning"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 177
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/fright_knight/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 178
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/blue_pimpernel/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 178
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/blue_pimpernel/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 178
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/blue_pimpernel/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 179
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/blue_pimpernel/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 179
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/blue_pimpernel/right_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 179
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/blue_pimpernel/left_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 180
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/blue_pimpernel/head_frowning"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 181
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/blue_pimpernel/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 182
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/spookumber/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 182
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/spookumber/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 182
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/spookumber/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 183
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/spookumber/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 183
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/spookumber/right_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 183
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/spookumber/left_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 184
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/spookumber/head_frowning"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 185
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/spookumber/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 186
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/spooky_spook/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 186
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/spooky_spook/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 186
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/spooky_spook/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 187
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/spooky_spook/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 187
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/spooky_spook/right_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 187
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/spooky_spook/left_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 188
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/spooky_spook/head_frowning"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 189
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/spooky_spook/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 190
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/dreadonfly/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 190
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/dreadonfly/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 190
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/dreadonfly/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 191
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/dreadonfly/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 191
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/dreadonfly/right_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 191
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/dreadonfly/left_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 192
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/dreadonfly/head_frowning"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 193
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/dreadonfly/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 194
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/horrorca/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 194
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/horrorca/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 194
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/horrorca/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 195
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/horrorca/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 195
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/horrorca/right_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 195
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/horrorca/left_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 196
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/horrorca/head_frowning"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 197
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/horrorca/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 198
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/bad_minton/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 198
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/bad_minton/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 198
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/bad_minton/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 199
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/bad_minton/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 199
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/bad_minton/right_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 199
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/bad_minton/left_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 200
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/bad_minton/head_frowning"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 201
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/bad_minton/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 202
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/awelligator/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 202
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/awelligator/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 202
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/awelligator/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 203
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/awelligator/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 203
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/awelligator/right_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 203
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/awelligator/left_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 204
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/awelligator/head_frowning"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 205
+            },
+            "model": "luigis_mansion_dark_moon:entity/greenie_boss/awelligator/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 206
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/beetle_whisperer/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 206
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/beetle_whisperer/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 206
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/beetle_whisperer/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 207
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/beetle_whisperer/head_smiling"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 207
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/beetle_whisperer/right_arm_open_hand"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 207
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/beetle_whisperer/left_arm_open_hand"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 208
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/beetle_whisperer/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 209
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/cold_catcher/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 209
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/cold_catcher/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 209
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/cold_catcher/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 210
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/cold_catcher/head_smiling"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 210
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/cold_catcher/right_arm_open_hand"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 210
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/cold_catcher/left_arm_open_hand"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 211
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/cold_catcher/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 212
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/sunflower/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 212
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/sunflower/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 212
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/sunflower/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 213
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/sunflower/head_smiling"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 213
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/sunflower/right_arm_open_hand"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 213
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/sunflower/left_arm_open_hand"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 214
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/sunflower/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 215
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/aweberry/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 215
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/aweberry/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 215
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/aweberry/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 216
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/aweberry/head_smiling"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 216
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/aweberry/right_arm_open_hand"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 216
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/aweberry/left_arm_open_hand"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 217
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/aweberry/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 218
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/scars/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 218
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/scars/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 218
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/scars/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 219
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/scars/head_smiling"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 219
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/scars/right_arm_open_hand"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 219
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/scars/left_arm_open_hand"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 220
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/scars/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 221
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/lady_gug/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 221
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/lady_gug/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 221
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/lady_gug/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 222
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/lady_gug/head_smiling"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 222
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/lady_gug/right_arm_open_hand"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 222
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/lady_gug/left_arm_open_hand"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 223
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/lady_gug/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 224
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/clown_fishy/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 224
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/clown_fishy/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 224
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/clown_fishy/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 225
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/clown_fishy/head_smiling"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 225
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/clown_fishy/right_arm_open_hand"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 225
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/clown_fishy/left_arm_open_hand"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 226
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/clown_fishy/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 227
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/footbrawl/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 227
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/footbrawl/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 227
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/footbrawl/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 228
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/footbrawl/head_smiling"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 228
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/footbrawl/right_arm_open_hand"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 228
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/footbrawl/left_arm_open_hand"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 229
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/footbrawl/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 230
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/banegal/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 230
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/banegal/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 230
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/banegal/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 231
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/banegal/head_smiling"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 231
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/banegal/right_arm_open_hand"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 231
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/banegal/left_arm_open_hand"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 232
+            },
+            "model": "luigis_mansion_dark_moon:entity/slammer_boss/banegal/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 233
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/terrible_teleporter/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 233
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/terrible_teleporter/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 233
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/terrible_teleporter/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 234
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/terrible_teleporter/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 235
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/terrible_teleporter/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 236
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/freaker_sneaker/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 236
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/freaker_sneaker/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 236
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/freaker_sneaker/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 237
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/freaker_sneaker/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 238
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/freaker_sneaker/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 239
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/pink_zinnia/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 239
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/pink_zinnia/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 239
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/pink_zinnia/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 240
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/pink_zinnia/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 241
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/pink_zinnia/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 242
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/scorn/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 242
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/scorn/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 242
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/scorn/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 243
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/scorn/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 244
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/scorn/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 245
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/scool/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 245
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/scool/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 245
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/scool/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 246
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/scool/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 247
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/scool/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 248
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/terrorfly/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 248
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/terrorfly/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 248
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/terrorfly/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 249
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/terrorfly/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 250
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/terrorfly/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 251
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/shriek_shark/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 251
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/shriek_shark/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 251
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/shriek_shark/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 252
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/shriek_shark/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 253
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/shriek_shark/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 254
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/tennis_menace/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 254
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/tennis_menace/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 254
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/tennis_menace/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 255
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/tennis_menace/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 256
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/tennis_menace/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 257
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/zebrawl/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 257
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/zebrawl/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 257
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/zebrawl/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 258
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/zebrawl/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 259
+            },
+            "model": "luigis_mansion_dark_moon:entity/sneaker_boss/zebrawl/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 260
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/primordial_goo/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 260
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/primordial_goo/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 260
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/primordial_goo/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 261
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/primordial_goo/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 262
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/primordial_goo/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 263
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/primordial_goo/puddle"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 264
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/primordial_goo/blob"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 265
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/tether_jacket/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 265
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/tether_jacket/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 265
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/tether_jacket/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 266
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/tether_jacket/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 267
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/tether_jacket/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 268
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/tether_jacket/puddle"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 269
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/tether_jacket/blob"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 270
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/violet/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 270
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/violet/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 270
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/violet/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 271
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/violet/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 272
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/violet/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 723
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/violet/puddle"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 724
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/violet/blob"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 275
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/scareables/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 275
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/scareables/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 275
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/scareables/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 276
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/scareables/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 277
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/scareables/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 278
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/scareables/puddle"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 279
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/scareables/blob"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 280
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/jack_goo_lantern/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 280
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/jack_goo_lantern/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 280
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/jack_goo_lantern/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 281
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/jack_goo_lantern/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 282
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/jack_goo_lantern/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 283
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/jack_goo_lantern/puddle"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 284
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/jack_goo_lantern/blob"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 285
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/blobberfly/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 285
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/blobberfly/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 285
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/blobberfly/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 286
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/blobberfly/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 287
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/blobberfly/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 288
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/blobberfly/puddle"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 289
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/blobberfly/blob"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 290
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/pondguin/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 290
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/pondguin/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 290
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/pondguin/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 291
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/pondguin/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 292
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/pondguin/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 293
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/pondguin/puddle"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 294
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/pondguin/blob"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 295
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/goolf/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 295
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/goolf/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 295
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/goolf/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 296
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/goolf/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 297
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/goolf/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 298
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/goolf/puddle"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 299
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/goolf/blob"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 300
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/leoprank/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 300
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/leoprank/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 300
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/leoprank/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 301
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/leoprank/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 302
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/leoprank/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 303
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/leoprank/puddle"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 304
+            },
+            "model": "luigis_mansion_dark_moon:entity/creeper_boss/leoprank/blob"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 305
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/creeper_launcher/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 305
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/creeper_launcher/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 305
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/creeper_launcher/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 306
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/creeper_launcher/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 307
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/creeper_launcher/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 308
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/yukata_ball/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 308
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/yukata_ball/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 308
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/yukata_ball/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 309
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/yukata_ball/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 310
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/yukata_ball/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 311
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/daisy/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 311
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/daisy/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 311
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/daisy/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 312
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/daisy/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 313
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/daisy/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 314
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/terrorange/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 314
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/terrorange/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 314
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/terrorange/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 315
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/terrorange/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 316
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/terrorange/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 317
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/blimp_reaper/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 317
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/blimp_reaper/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 317
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/blimp_reaper/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 318
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/blimp_reaper/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 319
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/blimp_reaper/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 320
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/go_bee/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 320
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/go_bee/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 320
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/go_bee/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 321
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/go_bee/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 322
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/go_bee/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 323
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/wurdle/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 323
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/wurdle/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 323
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/wurdle/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 324
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/wurdle/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 325
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/wurdle/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 326
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/soccer_ball/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 326
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/soccer_ball/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 326
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/soccer_ball/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 327
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/soccer_ball/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 328
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/soccer_ball/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 329
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/cawe/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 329
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/cawe/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 329
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/cawe/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 330
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/cawe/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 331
+            },
+            "model": "luigis_mansion_dark_moon:entity/gobber_boss/cawe/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 332
+            },
+            "model": "luigis_mansion_dark_moon:entity/the_brain/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 332
+            },
+            "model": "luigis_mansion_dark_moon:entity/the_brain/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 332
+            },
+            "model": "luigis_mansion_dark_moon:entity/the_brain/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 333
+            },
+            "model": "luigis_mansion_dark_moon:entity/the_brain/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 334
+            },
+            "model": "luigis_mansion_dark_moon:entity/the_brain/head_smiling"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 335
+            },
+            "model": "luigis_mansion_dark_moon:entity/the_brain/head_open_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 336
+            },
+            "model": "luigis_mansion_dark_moon:entity/king_boo/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 336
+            },
+            "model": "luigis_mansion_dark_moon:entity/king_boo/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 336
+            },
+            "model": "luigis_mansion_dark_moon:entity/king_boo/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 337
+            },
+            "model": "luigis_mansion_dark_moon:entity/king_boo/head_closed_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 338
+            },
+            "model": "luigis_mansion_dark_moon:entity/king_boo/head_hiding"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 339
+            },
+            "model": "luigis_mansion_dark_moon:entity/king_boo/head_dizzy"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 340
+            },
+            "model": "luigis_mansion_dark_moon:entity/king_boo/giant_head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 341
+            },
+            "model": "luigis_mansion_dark_moon:entity/boo/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 341
+            },
+            "model": "luigis_mansion_dark_moon:entity/boo/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 341
+            },
+            "model": "luigis_mansion_dark_moon:entity/boo/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 342
+            },
+            "model": "luigis_mansion_dark_moon:entity/boo/head_closed_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 343
+            },
+            "model": "luigis_mansion_dark_moon:entity/boo/head_hiding"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 344
+            },
+            "model": "luigis_mansion_dark_moon:entity/boo/toungue"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 345
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/2/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 345
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/2/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 345
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/2/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 346
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/2/head_closed_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 347
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/2/head_hiding"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 348
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/2/toungue"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 349
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/3/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 349
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/3/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 349
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/3/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 350
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/3/head_closed_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 351
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/3/head_hiding"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 352
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/3/toungue"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 353
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/4/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 353
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/4/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 353
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/4/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 354
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/4/head_closed_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 355
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/4/head_hiding"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 356
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/4/toungue"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 357
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/5/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 357
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/5/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 357
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/5/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 358
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/5/head_closed_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 359
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/5/head_hiding"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 360
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/5/toungue"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 361
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/6/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 361
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/6/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 361
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/6/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 362
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/6/head_closed_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 363
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/6/head_hiding"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 364
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/6/toungue"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 365
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/7/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 365
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/7/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 365
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/7/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 366
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/7/head_closed_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 367
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/7/head_hiding"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 368
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/7/toungue"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 369
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/8/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 369
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/8/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 369
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/8/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 370
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/8/head_closed_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 371
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/8/head_hiding"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 372
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/8/toungue"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 373
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/9/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 373
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/9/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 373
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/9/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 374
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/9/head_closed_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 375
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/9/head_hiding"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 376
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/9/toungue"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 377
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/10/head"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 377
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/10/right_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 377
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/10/left_arm"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 378
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/10/head_closed_mouth"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 379
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/10/head_hiding"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 380
+            },
+            "model": "luigis_mansion_dark_moon:entity/big_boo/10/toungue"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 381
+            },
+            "model": "luigis_mansion_dark_moon:entity/mouse"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 382
+            },
+            "model": "luigis_mansion_dark_moon:entity/gold_mouse"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 383
+            },
+            "model": "luigis_mansion_dark_moon:entity/crow/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 383
+            },
+            "model": "luigis_mansion_dark_moon:entity/crow/right_wing"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 383
+            },
+            "model": "luigis_mansion_dark_moon:entity/crow/left_wing"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 384
+            },
+            "model": "luigis_mansion_dark_moon:entity/gold_crow/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 384
+            },
+            "model": "luigis_mansion_dark_moon:entity/gold_crow/right_wing"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 384
+            },
+            "model": "luigis_mansion_dark_moon:entity/gold_crow/left_wing"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 385
+            },
+            "model": "luigis_mansion_dark_moon:entity/bat/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 385
+            },
+            "model": "luigis_mansion_dark_moon:entity/bat/right_wing"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 385
+            },
+            "model": "luigis_mansion_dark_moon:entity/bat/left_wing"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 386
+            },
+            "model": "luigis_mansion_dark_moon:entity/gold_bat/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 386
+            },
+            "model": "luigis_mansion_dark_moon:entity/gold_bat/right_wing"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 386
+            },
+            "model": "luigis_mansion_dark_moon:entity/gold_bat/left_wing"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 387
+            },
+            "model": "luigis_mansion_dark_moon:entity/beetle/idle"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 388
+            },
+            "model": "luigis_mansion_dark_moon:entity/beetle/flying"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 389
+            },
+            "model": "luigis_mansion_dark_moon:entity/beetle/idle_cold"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 390
+            },
+            "model": "luigis_mansion_dark_moon:entity/beetle/flying_cold"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 391
+            },
+            "model": "luigis_mansion_dark_moon:entity/gold_beetle/idle"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 392
+            },
+            "model": "luigis_mansion_dark_moon:entity/gold_beetle/flying"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 393
+            },
+            "model": "luigis_mansion_dark_moon:entity/fuzzball/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 393
+            },
+            "model": "luigis_mansion_dark_moon:entity/fuzzball/right_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 393
+            },
+            "model": "luigis_mansion_dark_moon:entity/fuzzball/left_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 394
+            },
+            "model": "luigis_mansion_dark_moon:entity/gold_fuzzball/body"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012,
+                "custom_model_data": 394
+            },
+            "model": "luigis_mansion_dark_moon:entity/gold_fuzzball/right_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019,
+                "custom_model_data": 394
+            },
+            "model": "luigis_mansion_dark_moon:entity/gold_fuzzball/left_leg"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 395
+            },
+            "model": "luigis_mansion_dark_moon:entity/robomb/inactive"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 396
+            },
+            "model": "luigis_mansion_dark_moon:entity/robomb/activating"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 397
+            },
+            "model": "luigis_mansion_dark_moon:entity/robomb/active"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 398
+            },
+            "model": "luigis_mansion_dark_moon:entity/gold_robomb/inactive"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 399
+            },
+            "model": "luigis_mansion_dark_moon:entity/gold_robomb/activating"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.00064,
+                "custom_model_data": 400
+            },
+            "model": "luigis_mansion_dark_moon:entity/gold_robomb/active"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
                 "damage": 0.0025,
                 "custom_model_data": 0
             },
@@ -203,6 +5699,62 @@
                 "custom_model_data": 18
             },
             "model": "luigis_mansion_dark_moon:entity/front_door_key"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0025,
+                "custom_model_data": 19
+            },
+            "model": "luigis_mansion_dark_moon:entity/dark_moon_piece/0"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0025,
+                "custom_model_data": 20
+            },
+            "model": "luigis_mansion_dark_moon:entity/dark_moon_piece/1"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0025,
+                "custom_model_data": 21
+            },
+            "model": "luigis_mansion_dark_moon:entity/dark_moon_piece/2"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0025,
+                "custom_model_data": 22
+            },
+            "model": "luigis_mansion_dark_moon:entity/dark_moon_piece/3"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0025,
+                "custom_model_data": 23
+            },
+            "model": "luigis_mansion_dark_moon:entity/dark_moon_piece/4"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0025,
+                "custom_model_data": 24
+            },
+            "model": "luigis_mansion_dark_moon:entity/dark_moon_piece/5"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0025,
+                "custom_model_data": 25
+            },
+            "model": "luigis_mansion_dark_moon:entity/king_boos_crown_jewel"
         },
         {
             "predicate": {
