@@ -19,8 +19,9 @@ execute if score #global_player_names Selected matches 0 run data merge entity @
 execute if score #global_player_names Selected matches 1 run data merge entity @e[tag=luigi_model,tag=source,tag=new,limit=1] {CustomNameVisible:1b}
 function luigis_mansion_dark_moon:other/get_luigi_color
 execute as @e[tag=luigi_model,tag=new] store result entity @s ArmorItems[3].tag.display.color int 1 run scoreboard players get #temp Time
-execute if score #temp2 Time matches 1 as @e[tag=luigi_model,tag=new,nbt={ArmorItems:[{tag:{CustomModelData:0}}]}] run data modify entity @s ArmorItems[3].tag.CustomModelData set value 3
-execute if score #temp2 Time matches 1 as @e[tag=luigi_model,tag=new,nbt={ArmorItems:[{tag:{CustomModelData:1}}]}] run data modify entity @s ArmorItems[3].tag.CustomModelData set value 4
+execute if score #temp2 Time matches 1 run tag @e[tag=luigi_model,tag=new] add model_version_2
+execute if score #temp2 Time matches 1 as @e[tag=luigi_model,tag=new,nbt={ArmorItems:[{tag:{CustomModelData:0}}]}] run data modify entity @s ArmorItems[3].tag.CustomModelData set value 8
+execute if score #temp2 Time matches 1 as @e[tag=luigi_model,tag=new,nbt={ArmorItems:[{tag:{CustomModelData:1}}]}] run data modify entity @s ArmorItems[3].tag.CustomModelData set value 9
 scoreboard players reset #temp Time
 scoreboard players reset #temp2 Time
 tag @e[tag=luigi_model,tag=new] remove new

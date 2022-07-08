@@ -9,4 +9,4 @@ execute if entity @s[tag=running,tag=!stop_model] run function luigis_mansion_da
 execute if entity @s[tag=swimming,tag=!stop_model] run function luigis_mansion_dark_moon:animations/luigi/swimming/right_leg
 
 execute at @s[tag=dual_scream] run function luigis_mansion_dark_moon:animations/luigi/dual_scream/right_leg
-execute at @s[tag=inspect] run function luigis_mansion_dark_moon:animations/luigi/inspect/right_leg
+execute at @s[tag=interact] run function luigis_mansion_dark_moon:animations/luigi/interact/right_leg

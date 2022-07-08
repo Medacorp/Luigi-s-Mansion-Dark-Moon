@@ -1,0 +1,2 @@
+execute if entity @s[nbt={Inventory:[{tag:{luigis_mansion_dark_moon:{id:"luigis_mansion_dark_moon:dual_scream"}}}]}] run function luigis_mansion_dark_moon:items/dual_scream/tick
+execute if entity @s[nbt=!{Inventory:[{tag:{luigis_mansion_dark_moon:{id:"luigis_mansion_dark_moon:dual_scream"}}}]}] if data storage luigis_mansion_dark_moon:data {got_dual_scream:1b} run function luigis_mansion_dark_moon:items/dual_scream/give

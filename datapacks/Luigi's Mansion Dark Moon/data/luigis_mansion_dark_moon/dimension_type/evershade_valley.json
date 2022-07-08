@@ -3,7 +3,7 @@
 	"natural": false,
 	"has_skylight": false,
 	"has_ceiling": false,
-	"ambient_light": 0.005,
+	"ambient_light": 0.015,
 	"fixed_time": 22000,
 	"piglin_safe": true,
 	"bed_works": false,

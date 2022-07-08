@@ -24,4 +24,4 @@ scoreboard players reset #temp PlayerRotation
 execute if entity @s[tag=!stop_model] store result entity @s Pose.Head[0] float 1 run data get entity @a[tag=this_luigi,limit=1] Rotation[1] 1
 
 execute at @s[tag=dual_scream] run function luigis_mansion_dark_moon:animations/luigi/dual_scream/head
-execute at @s[tag=inspect] run function luigis_mansion_dark_moon:animations/luigi/inspect/head
+execute at @s[tag=interact] run function luigis_mansion_dark_moon:animations/luigi/interact/head

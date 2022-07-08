@@ -1,0 +1,1 @@
+tag @s[scores={MusicType=17..31}] add trigger_dark_room_idle

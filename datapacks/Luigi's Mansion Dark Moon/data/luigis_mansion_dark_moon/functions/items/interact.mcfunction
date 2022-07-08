@@ -1,0 +1,2 @@
+execute if entity @s[nbt={Inventory:[{tag:{luigis_mansion_dark_moon:{id:"luigis_mansion_dark_moon:interact"}}}]}] run function luigis_mansion_dark_moon:items/interact/tick
+execute if entity @s[nbt=!{Inventory:[{tag:{luigis_mansion_dark_moon:{id:"luigis_mansion_dark_moon:interact"}}}]}] run function luigis_mansion_dark_moon:items/interact/give

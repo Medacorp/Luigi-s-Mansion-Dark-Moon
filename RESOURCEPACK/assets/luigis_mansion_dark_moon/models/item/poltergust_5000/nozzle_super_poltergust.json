@@ -1,0 +1,6 @@
+{
+	"parent": "luigis_mansion_dark_moon:item/poltergust_5000/nozzle",
+	"textures": {
+		"0": "luigis_mansion_dark_moon:item/super_poltergust"
+	}
+}

@@ -5,3 +5,4 @@ execute positioned as @e[type=minecraft:marker,tag=teleport_target,limit=1] run 
 execute at @s align y unless block ~ ~ ~ #luigis_mansion_dark_moon:all_ignore unless block ~ ~ ~ #minecraft:slabs[type=bottom] run teleport @s ~ ~1 ~
 execute at @s align y unless block ~ ~ ~ #luigis_mansion_dark_moon:all_ignore if block ~ ~ ~ #minecraft:slabs[type=bottom] run teleport @s ~ ~0.5 ~
 kill @e[type=minecraft:marker,tag=teleport_target,limit=1]
+tag @s add prevented_jump

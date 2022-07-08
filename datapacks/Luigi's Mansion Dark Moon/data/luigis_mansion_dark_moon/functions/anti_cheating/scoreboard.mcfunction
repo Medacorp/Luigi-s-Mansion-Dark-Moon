@@ -5,7 +5,9 @@ scoreboard objectives add Damage dummy
 scoreboard objectives add DarkLightTime dummy
 scoreboard objectives add DeathTime dummy
 scoreboard objectives add Dialog dummy
+scoreboard objectives add ErrorTime dummy
 scoreboard objectives add ForcedDamage dummy
+scoreboard objectives add GhostCount dummy
 scoreboard objectives add GhostNr dummy
 scoreboard objectives add GradualMusic dummy
 scoreboard objectives add Health dummy
@@ -20,8 +22,10 @@ scoreboard objectives add ModelTime dummy
 scoreboard objectives add Music dummy
 scoreboard objectives add MusicType dummy
 scoreboard objectives add ID dummy
+scoreboard objectives add IdleTime dummy
 scoreboard objectives add IncreaseAmount dummy
 scoreboard objectives add Invulnerable dummy
+scoreboard objectives add InteractionTime dummy
 scoreboard objectives add Jump minecraft.custom:minecraft.jump
 scoreboard objectives add JumpHeight dummy
 scoreboard objectives add LoadedChunks dummy
@@ -35,6 +39,9 @@ scoreboard objectives add PoltergustSound dummy
 scoreboard objectives add PosX dummy
 scoreboard objectives add PosY dummy
 scoreboard objectives add PosZ dummy
+scoreboard objectives add PowerGauge dummy
+scoreboard objectives add PowerGaugeCharge dummy
+scoreboard objectives add PowerGaugeUsage dummy
 scoreboard objectives add PlayerRotation dummy
 scoreboard objectives add PrevMusicType dummy
 scoreboard objectives add PrevRoom dummy
@@ -44,6 +51,7 @@ scoreboard objectives add RotationDif dummy
 scoreboard objectives add RotX dummy
 scoreboard objectives add RotY dummy
 scoreboard objectives add Run minecraft.custom:minecraft.sprint_one_cm
+scoreboard objectives add ScreenType dummy
 scoreboard objectives add Selected dummy
 scoreboard objectives add SettingsChoice trigger
 scoreboard objectives add Sneak minecraft.custom:minecraft.crouch_one_cm
@@ -57,8 +65,11 @@ scoreboard objectives add UseItem minecraft.used:minecraft.carrot_on_a_stick
 scoreboard objectives add Walk minecraft.custom:minecraft.walk_one_cm
 scoreboard objectives add WalkOnWater minecraft.custom:minecraft.walk_on_water_one_cm
 scoreboard objectives add WalkUnderWater minecraft.custom:minecraft.walk_under_water_one_cm
+scoreboard objectives add YellTime dummy
 
 scoreboard players set #-1 Constants -1
+scoreboard players set #2 Constants 2
+scoreboard players set #40 Constants 40
 scoreboard players set #256 Constants 256
 scoreboard players set #10000 Constants 10000
 

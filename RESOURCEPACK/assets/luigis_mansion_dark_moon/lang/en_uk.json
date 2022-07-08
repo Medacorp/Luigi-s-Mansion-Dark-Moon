@@ -1962,6 +1962,7 @@
 "luigis_mansion_dark_moon:item.gold_bone": "Gold Bone",
 "luigis_mansion_dark_moon:item.heart": "Heart",
 "luigis_mansion_dark_moon:item.hour_hand": "Hour Hand",
+"luigis_mansion_dark_moon:item.interact": "Interact",
 "luigis_mansion_dark_moon:item.key": "Key",
 "luigis_mansion_dark_moon:item.map": "Map",
 "luigis_mansion_dark_moon:item.minute_hand": "Minute Hand",
@@ -2804,5 +2805,13 @@
 "luigis_mansion_dark_moon:mission.locked": "Boos are still wreaking havoc somewhere in this location! Capture all of the Boos in the mansion to unlock this mission.",
 "luigis_mansion_dark_moon:mission.locked.out_of": "Captured Boos in %1$s out of %2$s missions.",
 "luigis_mansion_dark_moon:subtitles.entity.player.yell": "Player calls out",
-"luigis_mansion_dark_moon:subtitles.item.gold_bone.appear": "Gold Bone appears"
+"luigis_mansion_dark_moon:subtitles.item.gold_bone.appear": "Gold Bone appears",
+"luigis_mansion_dark_moon:subtitles.item.poltergust_5000.blowing": "Poltergust 5000 blows",
+"luigis_mansion_dark_moon:subtitles.item.poltergust_5000.catch": "Poltergust 5000 swallows",
+"luigis_mansion_dark_moon:subtitles.item.poltergust_5000.catch_object": "Poltergust 5000 gets clogged",
+"luigis_mansion_dark_moon:subtitles.item.poltergust_5000.damage": "Poltergust 5000 drains energy",
+"luigis_mansion_dark_moon:subtitles.item.poltergust_5000.expelling": "Poltergust 5000 expells",
+"luigis_mansion_dark_moon:subtitles.item.poltergust_5000.power_gauge.charged": "Power Gauge charges",
+"luigis_mansion_dark_moon:subtitles.item.poltergust_5000.power_gauge.use": "Power Gauge drains energy",
+"luigis_mansion_dark_moon:subtitles.item.poltergust_5000.vacuuming": "Poltergust 5000 vacuums"
 }

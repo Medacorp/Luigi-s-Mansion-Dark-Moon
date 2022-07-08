@@ -1,0 +1,6 @@
+{
+	"parent": "luigis_mansion_dark_moon:entity/luigi/body_poltergust_right_idle",
+	"textures": {
+		"poltergust": "luigis_mansion_dark_moon:item/poltergust_strobulbless"
+	}
+}

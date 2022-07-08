@@ -1,0 +1,7 @@
+{
+	"parent": "luigis_mansion_dark_moon:entity/luigi/body_poltergust_right",
+	"textures": {
+		"0": "luigis_mansion_dark_moon:entity/luigi/base_2",
+		"1": "luigis_mansion_dark_moon:entity/luigi/overlay_2"
+	}
+}

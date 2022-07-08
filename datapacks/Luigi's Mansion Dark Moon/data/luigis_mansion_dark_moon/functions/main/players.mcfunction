@@ -1,7 +1,8 @@
 tag @s remove spectator
 tag @s[gamemode=spectator] add spectator
 execute unless block ~ ~ ~ minecraft:air{loaded:0b} unless block ~-48 ~ ~ minecraft:air{loaded:0b} unless block ~48 ~ ~ minecraft:air{loaded:0b} unless block ~ ~ ~-48 minecraft:air{loaded:0b} unless block ~ ~ ~48 minecraft:air{loaded:0b} unless block ~48 ~ ~48 minecraft:air{loaded:0b} unless block ~48 ~ ~-48 minecraft:air{loaded:0b} unless block ~-48 ~ ~48 minecraft:air{loaded:0b} unless block ~-48 ~ ~-48 minecraft:air{loaded:0b} run function luigis_mansion_dark_moon:main/loaded_chunks
-execute if entity @s[scores={Jump=1..}] unless block ~ ~ ~ #minecraft:climbable run function luigis_mansion_dark_moon:main/prevent_jump
+tag @s[nbt={OnGround:1b},tag=!prevent_jump] remove prevented_jump
+execute if entity @s[nbt={OnGround:0b},tag=!prevented_jump] unless block ~ ~ ~ #minecraft:climbable run function luigis_mansion_dark_moon:main/prevent_jump
 
 execute if entity @s[tag=!joined] run function luigis_mansion_dark_moon:other/join_world
 execute if entity @s[scores={Offline=1..}] run function luigis_mansion_dark_moon:other/log_on

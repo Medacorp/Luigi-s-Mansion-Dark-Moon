@@ -16,6 +16,7 @@ scoreboard players set @s Sneak 0
 scoreboard players set @s SneakTime 0
 scoreboard players set @s Room 0
 scoreboard players set @s Dialog 0
+scoreboard players set @s PowerGaugeUsage 0
 gamemode adventure @s
 title @s times 40 40 40
 tag @s add joined

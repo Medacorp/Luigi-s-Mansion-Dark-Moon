@@ -1,0 +1,2 @@
+execute as @e[distance=..3,tag=interacts_with_expelling] run function luigis_mansion_dark_moon:items/poltergust_5000/effect_on_entity/dust
+function luigis_mansion_dark_moon:items/poltergust_5000/effect_on_block/dust

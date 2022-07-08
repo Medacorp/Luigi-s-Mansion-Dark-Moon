@@ -1,5 +1,0 @@
-select = vacuum
-select, clogged = vacuum up (if possible)
-use, nothing attached = toggle expelling
-use, ghost = A-pull
-use, clogged = fire/blow up bubble

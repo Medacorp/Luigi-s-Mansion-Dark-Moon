@@ -4,13 +4,13 @@
 	"downfall": 0,
 	"creature_spawn_probability": 0,
 	"effects": {
-		"fog_color": 15066597,
-		"foliage_color": 5877296,
-		"grass_color": 5271602,
-		"sky_color": 3355443,
-		"water_color": 4159204,
-		"water_fog_color": 329011,
-		"grass_color_modifier": "dark_forest"
+		"fog_color": 10370953,
+		"foliage_color": 4550750,
+		"grass_color": 4550750,
+		"sky_color": 26736,
+		"water_color": 9820379,
+		"water_fog_color": 9820379,
+		"grass_color_modifier": "none"
 	},
 	"carvers": {
 		"air": [],

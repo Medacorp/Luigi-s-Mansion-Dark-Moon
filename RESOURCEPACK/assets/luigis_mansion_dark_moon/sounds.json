@@ -23,6 +23,102 @@
         ],
         "subtitle": "luigis_mansion_dark_moon:subtitles.item.gold_bone.appear"
     },
+    "item.poltergust_5000.blowing": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:item/poltergust_5000/blowing"
+            }
+        ],
+        "subtitle": "luigis_mansion_dark_moon:subtitles.item.poltergust_5000.blowing"
+    },
+    "item.poltergust_5000.blowing_start": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:item/poltergust_5000/blowing_start"
+            }
+        ],
+        "subtitle": "luigis_mansion_dark_moon:subtitles.item.poltergust_5000.blowing"
+    },
+    "item.poltergust_5000.catch": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:item/poltergust_5000/catch"
+            }
+        ],
+        "subtitle": "luigis_mansion_dark_moon:subtitles.item.poltergust_5000.catch"
+    },
+    "item.poltergust_5000.catch_object": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:item/poltergust_5000/catch_object"
+            }
+        ],
+        "subtitle": "luigis_mansion_dark_moon:subtitles.item.poltergust_5000.catch_object"
+    },
+    "item.poltergust_5000.damage": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:item/poltergust_5000/damage"
+            }
+        ],
+        "subtitle": "luigis_mansion_dark_moon:subtitles.item.poltergust_5000.damage"
+    },
+    "item.poltergust_5000.expelling": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:item/poltergust_5000/expelling"
+            }
+        ],
+        "subtitle": "luigis_mansion_dark_moon:subtitles.item.poltergust_5000.expelling"
+    },
+    "item.poltergust_5000.expelling_start": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:item/poltergust_5000/expelling_start"
+            }
+        ],
+        "subtitle": "luigis_mansion_dark_moon:subtitles.item.poltergust_5000.expelling"
+    },
+    "item.poltergust_5000.power_gauge.charged": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:item/poltergust_5000/power_gauge/charged"
+            }
+        ],
+        "subtitle": "luigis_mansion_dark_moon:subtitles.item.poltergust_5000.power_gauge.charged"
+    },
+    "item.poltergust_5000.power_gauge.use": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:item/poltergust_5000/power_gauge/use"
+            }
+        ],
+        "subtitle": "luigis_mansion_dark_moon:subtitles.item.poltergust_5000.power_gauge.use"
+    },
+    "item.poltergust_5000.vacuuming": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:item/poltergust_5000/vacuuming"
+            }
+        ],
+        "subtitle": "luigis_mansion_dark_moon:subtitles.item.poltergust_5000.vacuuming"
+    },
+    "item.poltergust_5000.vacuuming_clogged": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:item/poltergust_5000/vacuuming_clogged"
+            }
+        ],
+        "subtitle": "luigis_mansion_dark_moon:subtitles.item.poltergust_5000.vacuuming"
+    },
+    "item.poltergust_5000.vacuuming_start": {
+        "sounds": [
+            {
+                "name": "luigis_mansion_dark_moon:item/poltergust_5000/vacuuming_start"
+            }
+        ],
+        "subtitle": "luigis_mansion_dark_moon:subtitles.item.poltergust_5000.vacuuming"
+    },
     "music.boss_escaped": {
         "sounds": [
             {

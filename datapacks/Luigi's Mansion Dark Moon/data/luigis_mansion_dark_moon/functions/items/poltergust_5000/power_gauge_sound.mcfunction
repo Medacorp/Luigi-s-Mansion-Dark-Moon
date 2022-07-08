@@ -1,0 +1,3 @@
+execute if score #temp PowerGauge matches 1 run playsound luigis_mansion_dark_moon:item.poltergust_5000.power_gauge.charged hostile @a[tag=same_room] ~ ~ ~ 1 1
+execute if score #temp PowerGauge matches 2 run playsound luigis_mansion_dark_moon:item.poltergust_5000.power_gauge.charged hostile @a[tag=same_room] ~ ~ ~ 1 1.5
+execute if score #temp PowerGauge matches 3 run playsound luigis_mansion_dark_moon:item.poltergust_5000.power_gauge.charged hostile @a[tag=same_room] ~ ~ ~ 1 2

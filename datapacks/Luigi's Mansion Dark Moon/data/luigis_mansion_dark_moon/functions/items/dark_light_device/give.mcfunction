@@ -1,0 +1,3 @@
+execute store result score #temp ActionTime run clear @s minecraft:carrot_on_a_stick{luigis_mansion_dark_moon:{id:"luigis_mansion_dark_moon:dark_light_device"}} 0
+execute if score #temp ActionTime matches 0 run give @s minecraft:carrot_on_a_stick{HideFlags:63,Unbreakable:1b,Damage:1,CustomModelData:10,display:{Name:'{"italic":false,"color":"white","translate":"luigis_mansion_dark_moon:item.dark_light_device"}'},luigis_mansion_dark_moon:{id:"luigis_mansion_dark_moon:dark_light_device",kill:1b}}
+scoreboard players reset #temp ActionTime
