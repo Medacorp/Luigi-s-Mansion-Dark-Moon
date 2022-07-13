@@ -15,16 +15,17 @@ tag @s[scores={Room=1..},nbt={SelectedItem:{tag:{luigis_mansion_dark_moon:{id:"l
 scoreboard players set @s[tag=!poltergust_selected] VacuumErrors 0
 scoreboard players set @s[tag=!poltergust_selected] Pull 0
 tag @s[tag=!poltergust_selected] remove made_error
-tag @s[scores={UseItem=1},tag=!vacuuming_ghost,tag=!expelling] add toggle_expelling
-tag @s[scores={UseItem=1},tag=!vacuuming_ghost] remove expelling
-tag @s[scores={UseItem=1},tag=!vacuuming_ghost,tag=toggle_expelling] add expelling
+tag @s[scores={UseItem=1..},tag=!vacuuming_ghost,tag=!expelling] add toggle_expelling
+tag @s[scores={UseItem=1..},tag=!vacuuming_ghost] remove expelling
+tag @s[scores={UseItem=1..},tag=!vacuuming_ghost,tag=toggle_expelling] add expelling
 tag @s remove toggle_expelling
+execute if entity @s[tag=!poltergust_selected,scores={PowerGaugeCharge=1..}] run function luigis_mansion_dark_moon:items/poltergust_5000/reset_power_gauge
 scoreboard players set @s[scores={PowerGaugeUsage=1}] PowerGaugeCharge 0
-execute at @s[scores={PowerGaugeUsage=1..}] run teleport @s ^ ^ ^-0.1
+execute at @s[scores={PowerGaugeUsage=1..}] rotated ~ 0 run teleport @s ^ ^ ^-0.1
 scoreboard players remove @s[scores={PowerGaugeUsage=1..}] PowerGaugeUsage 1
-execute if entity @s[scores={UseItem=1,PowerGauge=1..,PowerGaugeUsage=0},tag=vacuuming_ghost] run playsound luigis_mansion_dark_moon:item.poltergust_5000.power_gauge.use hostile @a[tag=same_room] ~ ~ ~ 1 1
-scoreboard players set @s[scores={UseItem=1,PowerGauge=1..,PowerGaugeUsage=0},tag=vacuuming_ghost] PowerGaugeUsage 20
-scoreboard players set @s[scores={UseItem=1}] UseItem 0
+execute if entity @s[scores={UseItem=1..,PowerGauge=1..,PowerGaugeUsage=0},tag=vacuuming_ghost] run playsound luigis_mansion_dark_moon:item.poltergust_5000.power_gauge.use hostile @a[tag=same_room] ~ ~ ~ 1 1
+scoreboard players set @s[scores={UseItem=1..,PowerGauge=1..,PowerGaugeUsage=0},tag=vacuuming_ghost] PowerGaugeUsage 20
+scoreboard players set @s[scores={UseItem=1..}] UseItem 0
 tag @s remove vacuuming_ghost
 execute if entity @s[tag=poltergust_selected,tag=!expelling] run function luigis_mansion_dark_moon:items/poltergust_5000/vacuuming
 execute if entity @s[tag=poltergust_selected,tag=expelling] run function luigis_mansion_dark_moon:items/poltergust_5000/expelling

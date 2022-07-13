@@ -1,0 +1,6 @@
+{
+	"parent": "luigis_mansion_dark_moon:entity/greenie_boss/head_confused",
+	"textures": {
+        "body": "luigis_mansion_dark_moon:entity/greenie/boss/fright_knight"
+    }
+}

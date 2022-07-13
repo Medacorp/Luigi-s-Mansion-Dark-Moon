@@ -17,6 +17,7 @@ a_2.2 = after getting all gears
 a_4.1 = after lab door vanishes and player walks a bit away
 a_4.2 = after obtaining dark-light device
 a_4.3 = leave lab
+a_4.4 = enter balcony
 a_boss.1 = try to leave lobby
 a_boss.2 = try to leave lobby second time
 a_boss.3 = try to leave lobby third time (forth time starts at 1 again)

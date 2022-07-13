@@ -1,0 +1,6 @@
+{
+	"parent": "luigis_mansion_dark_moon:item/dark_light_device/held/5",
+	"textures": {
+		"1": "luigis_mansion_dark_moon:item/super_poltergust"
+	}
+}

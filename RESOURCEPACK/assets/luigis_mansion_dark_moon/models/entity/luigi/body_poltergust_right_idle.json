@@ -2,7 +2,9 @@
 	"credit": "Made with Blockbench",
 	"parent": "luigis_mansion_dark_moon:entity/luigi/body",
 	"textures": {
-		"poltergust": "luigis_mansion_dark_moon:item/poltergust"
+		"3": "luigis_mansion_dark_moon:item/strobulb",
+		"poltergust": "luigis_mansion_dark_moon:item/poltergust",
+		"particle": "luigis_mansion_dark_moon:item/strobulb"
 	},
 	"elements": [
 		{
@@ -82,11 +84,11 @@
 			"to": [9, 14.5, 26],
 			"rotation": {"angle": 0, "axis": "y", "origin": [16, -2, 24]},
 			"faces": {
-				"east": {"uv": [0, 11.5, 0.5, 12], "texture": "#poltergust"},
-				"south": {"uv": [1.5, 11.5, 2, 12], "texture": "#poltergust"},
-				"west": {"uv": [1, 11.5, 1.5, 12], "texture": "#poltergust"},
-				"up": {"uv": [1, 11.5, 0.5, 11], "texture": "#poltergust"},
-				"down": {"uv": [1.5, 11.5, 1, 11], "rotation": 180, "texture": "#poltergust"}
+				"east": {"uv": [0, 4, 4, 8], "rotation": 270, "texture": "#3"},
+				"south": {"uv": [4, 0, 8, 4], "texture": "#3"},
+				"west": {"uv": [8, 4, 12, 8], "rotation": 90, "texture": "#3"},
+				"up": {"uv": [12, 4, 16, 8], "rotation": 180, "texture": "#3"},
+				"down": {"uv": [4, 4, 8, 8], "texture": "#3"}
 			}
 		},
 		{

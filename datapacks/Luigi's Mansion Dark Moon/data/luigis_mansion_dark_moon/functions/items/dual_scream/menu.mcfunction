@@ -1,0 +1,7 @@
+tellraw @s {"translate":"chat.type.text","with":[{"nbt":"Inventory[{tag:{luigis_mansion_dark_moon:{id:\"luigis_mansion_dark_moon:dual_scream\"}}}].tag.display.Name","entity":"@s","interpret":true,"color":"green"},{"translate":"luigis_mansion_dark_moon:message.dual_scream.choose"}]}
+execute unless data storage luigis_mansion_dark_moon:data {selected_map:0} run tellraw @s {"translate":"luigis_mansion_dark_moon:message.dual_scream.map","color":"green","clickEvent":{"action":"run_command","value":"/trigger DualScreamChoice set 1"}}
+execute if data storage luigis_mansion_dark_moon:data mission.selected run tellraw @s {"translate":"luigis_mansion_dark_moon:message.dual_scream.tasks","color":"green","clickEvent":{"action":"run_command","value":"/trigger DualScreamChoice set 2"}}
+tellraw @s {"translate":"luigis_mansion_dark_moon:message.dual_scream.inventory","color":"green","clickEvent":{"action":"run_command","value":"/trigger DualScreamChoice set 3"}}
+tellraw @s {"translate":"luigis_mansion_dark_moon:message.dual_scream.settings","color":"green","clickEvent":{"action":"run_command","value":"/trigger SettingsChoice set -1"}}
+scoreboard players enable @s DualScreamChoice
+tag @s add showing_menu

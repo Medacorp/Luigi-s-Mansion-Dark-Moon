@@ -1,0 +1,6 @@
+{
+	"parent": "luigis_mansion_dark_moon:entity/greenie_boss/left_arm",
+	"textures": {
+        "body": "luigis_mansion_dark_moon:entity/greenie/boss/blue_pimpernel"
+    }
+}

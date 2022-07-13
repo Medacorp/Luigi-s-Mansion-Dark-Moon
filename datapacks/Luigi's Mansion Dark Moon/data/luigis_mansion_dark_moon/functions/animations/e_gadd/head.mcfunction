@@ -1,0 +1,1 @@
+execute if entity @s[] run function luigis_mansion_dark_moon:animations/e_gadd/idle/head

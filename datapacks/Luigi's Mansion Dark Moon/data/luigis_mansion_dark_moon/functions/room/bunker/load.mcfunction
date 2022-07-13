@@ -1,0 +1,1 @@
+execute positioned 0 90 3 rotated -180 0 run function luigis_mansion_dark_moon:spawn_entities/e_gadd

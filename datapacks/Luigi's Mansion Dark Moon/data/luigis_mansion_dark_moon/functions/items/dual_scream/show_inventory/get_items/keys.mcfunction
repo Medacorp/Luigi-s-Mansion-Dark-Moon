@@ -1,0 +1,11 @@
+execute in minecraft:overworld run setblock 0 0 0 minecraft:shulker_box{Items:[{Slot:0b,id:"minecraft:stone",Count:1b,tag:{value:[I;]}}]}
+execute in minecraft:overworld run setblock 1 0 0 minecraft:shulker_box{Items:[{Slot:0b,id:"minecraft:stone",Count:1b,tag:{value:[I;]}}]}
+execute in minecraft:overworld run data modify block 0 0 0 Items[0].tag.value set from entity @s UUID
+data modify storage luigis_mansion_dark_moon:data new_keys set from storage luigis_mansion_dark_moon:data keys
+data modify storage luigis_mansion_dark_moon:data my_keys set value {uuid:[I;],amount:0}
+execute in minecraft:overworld if data storage luigis_mansion_dark_moon:data new_keys[-1] run function luigis_mansion_dark_moon:items/dual_scream/show_inventory/get_items/keys_index
+scoreboard players reset #temp ActionTime
+execute in minecraft:overworld run fill 0 0 0 1 0 0 minecraft:bedrock
+data remove storage luigis_mansion_dark_moon:data new_keys
+execute store result score #temp Time run data get storage luigis_mansion_dark_moon:data my_keys.amount
+data remove storage luigis_mansion_dark_moon:data my_keys

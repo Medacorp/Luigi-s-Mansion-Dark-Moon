@@ -4,7 +4,7 @@ teleport @s[tag=sneak_pos] ^-0.35 ^-1.76 ^ ~ ~
 
 data modify entity @s[tag=held_item,tag=!stop_model] ArmorItems[3] set from storage luigis_mansion_dark_moon:data luigi.mainhand
 execute if entity @s[tag=held_item] store result score @s DarkLightTime run data get storage luigis_mansion_dark_moon:data luigi.dark_light_time
-execute if entity @s[tag=held_item,nbt={ArmorItems:[{tag:{luigis_mansion_dark_moon:{id:"luigis_mansion_dark_moon:dark_light_device"}}}]}] run function luigis_mansion_dark_moon:animations/luigi/dark_light_shine
+execute if entity @s[tag=held_item,tag=!dark_light_device_cooling_down,nbt={ArmorItems:[{tag:{luigis_mansion_dark_moon:{id:"luigis_mansion_dark_moon:dark_light_device"}}}]}] run function luigis_mansion_dark_moon:animations/luigi/dark_light_shine
 
 
 data modify entity @s[tag=was_sneak_posing,tag=!sneak_pos] Pose.Head[0] set value 0.001f

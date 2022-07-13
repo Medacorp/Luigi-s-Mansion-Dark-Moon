@@ -1,0 +1,51 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "luigis_mansion_dark_moon:entity/greenie/normal",
+		"body": "luigis_mansion_dark_moon:entity/greenie/normal"
+	},
+	"elements": [
+		{
+			"from": [6, 6, 4],
+			"to": [11, 9, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -8, 8]},
+			"faces": {
+				"north": {"uv": [4.25, 7.375, 4.875, 7.75], "texture": "#body"},
+				"east": {"uv": [3.25, 7.375, 4.25, 7.75], "texture": "#body"},
+				"south": {"uv": [5.875, 7.375, 6.5, 7.75], "texture": "#body"},
+				"west": {"uv": [4.875, 7.375, 5.875, 7.75], "texture": "#body"},
+				"up": {"uv": [4.25, 6.375, 4.875, 7.375], "rotation": 180, "texture": "#body"},
+				"down": {"uv": [4.875, 6.375, 5.5, 7.375], "rotation": 180, "texture": "#body"}
+			}
+		},
+		{
+			"from": [6, 3, 5],
+			"to": [10, 6, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -8, 8]},
+			"faces": {
+				"north": {"uv": [4, 8.5, 4.5, 8.875], "texture": "#body"},
+				"east": {"uv": [3.25, 8.5, 4, 8.875], "texture": "#body"},
+				"south": {"uv": [5.25, 8.5, 5.75, 8.875], "texture": "#body"},
+				"west": {"uv": [4.5, 8.5, 5.25, 8.875], "texture": "#body"},
+				"down": {"uv": [4.5, 7.75, 5, 8.5], "rotation": 180, "texture": "#body"}
+			}
+		},
+		{
+			"from": [6, 1, 6],
+			"to": [9, 3, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -8, 8]},
+			"faces": {
+				"north": {"uv": [3.75, 9.375, 4.125, 9.625], "texture": "#body"},
+				"east": {"uv": [3.25, 9.375, 3.75, 9.625], "texture": "#body"},
+				"south": {"uv": [4.625, 9.375, 5, 9.625], "texture": "#body"},
+				"west": {"uv": [4.125, 9.375, 4.625, 9.625], "texture": "#body"},
+				"down": {"uv": [4.125, 8.875, 4.5, 9.375], "rotation": 180, "texture": "#body"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [-0.25, -8, 0]
+		}
+	}
+}

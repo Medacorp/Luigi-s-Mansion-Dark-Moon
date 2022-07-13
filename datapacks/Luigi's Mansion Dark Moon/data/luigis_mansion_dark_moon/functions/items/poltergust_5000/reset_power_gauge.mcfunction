@@ -1,0 +1,2 @@
+scoreboard players set @s PowerGaugeCharge 0
+function luigis_mansion_dark_moon:items/poltergust_5000/sync_power_gauge

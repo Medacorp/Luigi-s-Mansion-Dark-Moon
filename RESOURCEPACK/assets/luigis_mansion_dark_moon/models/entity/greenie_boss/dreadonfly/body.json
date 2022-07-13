@@ -1,0 +1,6 @@
+{
+	"parent": "luigis_mansion_dark_moon:entity/greenie_boss/body",
+	"textures": {
+        "body": "luigis_mansion_dark_moon:entity/greenie/boss/dreadonfly"
+    }
+}

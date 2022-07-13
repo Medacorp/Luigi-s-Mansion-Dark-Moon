@@ -1,0 +1,9 @@
+{
+	"parent": "luigis_mansion_dark_moon:entity/greenie/body",
+	"display": {
+		"head": {
+			"scale": [1.6, 1.6, 1.6],
+			"translation": [0, -8.5, 0]
+		}
+	}
+}

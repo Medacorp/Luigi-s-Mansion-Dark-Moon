@@ -1,9 +1,9 @@
-execute if data storage luigis_mansion_dark_moon:data vault.upgrades{power_gauge:1} unless data storage luigis_mansion_dark_moon:data {selected_map:7} run scoreboard players set @s[scores={PowerGaugeCharge=41..}] PowerGaugeCharge 40
-execute if data storage luigis_mansion_dark_moon:data vault.upgrades{power_gauge:2} unless data storage luigis_mansion_dark_moon:data {selected_map:7} run scoreboard players set @s[scores={PowerGaugeCharge=81..}] PowerGaugeCharge 80
-execute if data storage luigis_mansion_dark_moon:data vault.upgrades{power_gauge:3} unless data storage luigis_mansion_dark_moon:data {selected_map:7} run scoreboard players set @s[scores={PowerGaugeCharge=121..}] PowerGaugeCharge 120
-execute if data storage luigis_mansion_dark_moon:data scarescraper.upgrades{power_gauge:1} if data storage luigis_mansion_dark_moon:data {selected_map:7} run scoreboard players set @s[scores={PowerGaugeCharge=41..}] PowerGaugeCharge 40
-execute if data storage luigis_mansion_dark_moon:data scarescraper.upgrades{power_gauge:2} if data storage luigis_mansion_dark_moon:data {selected_map:7} run scoreboard players set @s[scores={PowerGaugeCharge=81..}] PowerGaugeCharge 80
-execute if data storage luigis_mansion_dark_moon:data scarescraper.upgrades{power_gauge:3} if data storage luigis_mansion_dark_moon:data {selected_map:7} run scoreboard players set @s[scores={PowerGaugeCharge=121..}] PowerGaugeCharge 120
+execute if data storage luigis_mansion_dark_moon:data vault.upgrades{power_gauge_level:1} unless data storage luigis_mansion_dark_moon:data {selected_map:7} run scoreboard players set @s[scores={PowerGaugeCharge=41..}] PowerGaugeCharge 40
+execute if data storage luigis_mansion_dark_moon:data vault.upgrades{power_gauge_level:2} unless data storage luigis_mansion_dark_moon:data {selected_map:7} run scoreboard players set @s[scores={PowerGaugeCharge=81..}] PowerGaugeCharge 80
+execute if data storage luigis_mansion_dark_moon:data vault.upgrades{power_gauge_level:3} unless data storage luigis_mansion_dark_moon:data {selected_map:7} run scoreboard players set @s[scores={PowerGaugeCharge=121..}] PowerGaugeCharge 120
+execute if data storage luigis_mansion_dark_moon:data scarescraper.upgrades{power_gauge_level:1} if data storage luigis_mansion_dark_moon:data {selected_map:7} run scoreboard players set @s[scores={PowerGaugeCharge=41..}] PowerGaugeCharge 40
+execute if data storage luigis_mansion_dark_moon:data scarescraper.upgrades{power_gauge_level:2} if data storage luigis_mansion_dark_moon:data {selected_map:7} run scoreboard players set @s[scores={PowerGaugeCharge=81..}] PowerGaugeCharge 80
+execute if data storage luigis_mansion_dark_moon:data scarescraper.upgrades{power_gauge_level:3} if data storage luigis_mansion_dark_moon:data {selected_map:7} run scoreboard players set @s[scores={PowerGaugeCharge=121..}] PowerGaugeCharge 120
 scoreboard players operation @s PowerGauge = @s PowerGaugeCharge
 scoreboard players operation @s PowerGauge /= #40 Constants
 scoreboard players operation #temp PowerGaugeCharge = @s PowerGaugeCharge

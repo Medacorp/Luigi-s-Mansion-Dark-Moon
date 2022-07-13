@@ -1,0 +1,6 @@
+{
+	"parent": "luigis_mansion_dark_moon:item/dual_scream/normal",
+	"textures": {
+		"1": "luigis_mansion_dark_moon:item/dual_scream_call"
+	}
+}

@@ -11,6 +11,7 @@ scoreboard players operation #temp Room = @s Room
 execute as @e if score #temp Room = @s Room run tag @s add same_room
 scoreboard players reset #temp Room
 
+execute unless entity @s[scores={SettingsChoice=0}] run function luigis_mansion_dark_moon:settings/menu
 execute if entity @s[tag=!spectator] run function luigis_mansion_dark_moon:entities/player/tick
 
 scoreboard players set @s UseItem 0

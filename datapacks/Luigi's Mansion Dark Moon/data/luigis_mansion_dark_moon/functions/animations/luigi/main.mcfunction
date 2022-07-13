@@ -6,17 +6,27 @@ execute if entity @s[scores={AnimationProg=0},tag=was_swimming] store result ent
 execute if entity @s[tag=!was_swimming] if data storage luigis_mansion_dark_moon:data luigi{tags:["swimming"]} run function luigis_mansion_dark_moon:animations/luigi/reset_pose
 execute if entity @s[tag=!was_dual_screaming] if data storage luigis_mansion_dark_moon:data luigi{tags:["dual_scream"]} run function luigis_mansion_dark_moon:animations/luigi/reset_pose
 execute if entity @s[tag=was_dual_screaming] unless data storage luigis_mansion_dark_moon:data luigi{tags:["dual_scream"]} run function luigis_mansion_dark_moon:animations/luigi/reset_pose
-execute if entity @s[tag=!was_inspecting] if data storage luigis_mansion_dark_moon:data luigi{tags:["inspect"]} run function luigis_mansion_dark_moon:animations/luigi/reset_pose
-execute if entity @s[tag=was_inspecting] unless data storage luigis_mansion_dark_moon:data luigi{tags:["inspect"]} run function luigis_mansion_dark_moon:animations/luigi/reset_pose
+execute if entity @s[tag=!was_interacting] if data storage luigis_mansion_dark_moon:data luigi{tags:["interact"]} run function luigis_mansion_dark_moon:animations/luigi/reset_pose
+execute if entity @s[tag=was_interacting] unless data storage luigis_mansion_dark_moon:data luigi{tags:["interact"]} run function luigis_mansion_dark_moon:animations/luigi/reset_pose
+execute if entity @s[tag=!was_scratching_chest] if data storage luigis_mansion_dark_moon:data luigi{tags:["scratch_chest"]} run function luigis_mansion_dark_moon:animations/luigi/reset_pose
+execute if entity @s[tag=was_scratching_chest] unless data storage luigis_mansion_dark_moon:data luigi{tags:["scratch_chest"]} run function luigis_mansion_dark_moon:animations/luigi/reset_pose
+execute if entity @s[tag=!was_adjusting_nose] if data storage luigis_mansion_dark_moon:data luigi{tags:["adjust_nose"]} run function luigis_mansion_dark_moon:animations/luigi/reset_pose
+execute if entity @s[tag=was_adjusting_nose] unless data storage luigis_mansion_dark_moon:data luigi{tags:["adjust_nose"]} run function luigis_mansion_dark_moon:animations/luigi/reset_pose
+execute if entity @s[tag=!was_scared] if data storage luigis_mansion_dark_moon:data luigi{tags:["scared"]} run function luigis_mansion_dark_moon:animations/luigi/reset_pose
+execute if entity @s[tag=was_scared] unless data storage luigis_mansion_dark_moon:data luigi{tags:["scared"]} run function luigis_mansion_dark_moon:animations/luigi/reset_pose
+execute if entity @s[tag=!was_uncomfortable_poltergust] if data storage luigis_mansion_dark_moon:data luigi{tags:["uncomfortable_poltergust"]} run function luigis_mansion_dark_moon:animations/luigi/reset_pose
+execute if entity @s[tag=was_uncomfortable_poltergust] unless data storage luigis_mansion_dark_moon:data luigi{tags:["uncomfortable_poltergust"]} run function luigis_mansion_dark_moon:animations/luigi/reset_pose
 execute if entity @s[tag=!was_opening_door] unless entity @s[tag=!right_arm,tag=!left_arm] if data storage luigis_mansion_dark_moon:data luigi{tags:["open_door"]} run function luigis_mansion_dark_moon:animations/luigi/reset_pose
 execute if entity @s[tag=was_opening_door] unless entity @s[tag=!right_arm,tag=!left_arm] unless data storage luigis_mansion_dark_moon:data luigi{tags:["open_door"]} run function luigis_mansion_dark_moon:animations/luigi/reset_pose
 execute if entity @s[tag=!was_lockeding_door] unless entity @s[tag=!right_arm,tag=!left_arm] if data storage luigis_mansion_dark_moon:data luigi{tags:["locked_door"]} run function luigis_mansion_dark_moon:animations/luigi/reset_pose
 execute if entity @s[tag=was_lockeding_door] unless entity @s[tag=!right_arm,tag=!left_arm] unless data storage luigis_mansion_dark_moon:data luigi{tags:["locked_door"]} run function luigis_mansion_dark_moon:animations/luigi/reset_pose
 execute if entity @s[tag=!was_unlocking_door] unless entity @s[tag=!right_arm,tag=!left_arm] if data storage luigis_mansion_dark_moon:data luigi{tags:["unlock_door"]} run function luigis_mansion_dark_moon:animations/luigi/reset_pose
 execute if entity @s[tag=was_unlocking_door] unless entity @s[tag=!right_arm,tag=!left_arm] unless data storage luigis_mansion_dark_moon:data luigi{tags:["unlock_door"]} run function luigis_mansion_dark_moon:animations/luigi/reset_pose
+execute if entity @s[tag=!was_dual_scream_selected] unless entity @s[tag=!right_arm,tag=!left_arm] if data storage luigis_mansion_dark_moon:data luigi{tags:["dual_scream_selected"]} run function luigis_mansion_dark_moon:animations/luigi/reset_pose
+execute if entity @s[tag=was_dual_scream_selected] unless entity @s[tag=!right_arm,tag=!left_arm] unless data storage luigis_mansion_dark_moon:data luigi{tags:["dual_scream_selected"]} run function luigis_mansion_dark_moon:animations/luigi/reset_pose
 data modify entity @s Tags append from storage luigis_mansion_dark_moon:data luigi.tags[]
 tag @s[tag=dual_scream] remove sneak_pos
-tag @s[tag=inspect] remove sneak_pos
+tag @s[tag=interact] remove sneak_pos
 tag @s[tag=open_door] remove sneak_pos
 tag @s[tag=locked_door] remove sneak_pos
 tag @s[tag=unlock_door] remove sneak_pos
@@ -55,9 +65,9 @@ tag @s[tag=sneak_pos] remove sneak_pos
 tag @s[tag=dual_scream] add was_dual_screaming
 tag @s[tag=!dual_scream] remove was_dual_screaming
 tag @s[tag=dual_scream] remove dual_scream
-tag @s[tag=inspect] add was_inspecting
-tag @s[tag=!inspect] remove was_inspecting
-tag @s[tag=inspect] remove inspect
+tag @s[tag=interact] add was_interacting
+tag @s[tag=!interact] remove was_interacting
+tag @s[tag=interact] remove interact
 tag @s[tag=left_door] remove left_door
 tag @s[tag=open_door] add was_opening_door
 tag @s[tag=!open_door] remove was_opening_door
@@ -68,13 +78,28 @@ tag @s[tag=locked_door] remove locked_door
 tag @s[tag=unlock_door] add was_unlocking_door
 tag @s[tag=!unlock_door] remove was_unlocking_door
 tag @s[tag=unlock_door] remove unlock_door
-tag @s[tag=poltergust_selected] remove poltergust_selected
-tag @s[tag=flashlight_selected] remove flashlight_selected
-tag @s[tag=dark_light_device_selected] remove dark_light_device_selected
+tag @s[tag=scared] add was_scared
+tag @s[tag=!scared] remove was_scared
+tag @s[tag=scared] remove scared
+tag @s[tag=scratch_chest] add was_scratching_chest
+tag @s[tag=!scratch_chest] remove was_scratching_chest
+tag @s[tag=scratch_chest] remove scratch_chest
+tag @s[tag=adjust_nose] add was_adjusting_nose
+tag @s[tag=!adjust_nose] remove was_adjusting_nose
+tag @s[tag=adjust_nose] remove adjust_nose
+tag @s[tag=uncomfortable_poltergust] add was_uncomfortable_poltergust
+tag @s[tag=!uncomfortable_poltergust] remove was_uncomfortable_poltergust
+tag @s[tag=uncomfortable_poltergust] remove uncomfortable_poltergust
+tag @s[tag=dual_scream_selected] add was_dual_scream_selected
+tag @s[tag=!dual_scream_selected] remove was_dual_scream_selected
 tag @s[tag=dual_scream_selected] remove dual_scream_selected
-tag @s[tag=death_animation] remove death_animation
-tag @s[tag=revive_animation] remove revive_animation
-tag @s[tag=stop_model] remove stop_model
+tag @s remove death_animation
+tag @s remove revive_animation
+tag @s remove stop_model
+tag @s remove dark_light_device_cooling_down
+tag @s remove flashlight_selected
+tag @s remove poltergust_selected
+tag @s remove dark_light_device_selected
 tag @s remove dark_room
 tag @s remove flashlight
 tag @s remove moved

@@ -1,0 +1,6 @@
+{
+	"parent": "luigis_mansion_dark_moon:entity/strong_greenie/head_confused",
+	"textures": {
+        "paranormal_chain": "luigis_mansion_dark_moon:entity/greenie/paranormal_chain"
+    }
+}

@@ -4,10 +4,9 @@ scoreboard players operation #temp ID = @s ID
 tag @s add me
 tag @s remove capturing_ghost
 scoreboard players set @s[tag=capturing_ghost] Invulnerable 2
-execute as @e[tag=ghost,tag=same_room,scores={VulnerableTime=1..}] run function luigis_mansion_dark_moon:items/poltergust_5000/attacking_ghost
 execute if score #temp GhostCount > @s GhostCount run scoreboard players operation @s GhostCount = #temp GhostCount
+execute as @e[tag=ghost,tag=same_room] unless entity @s[tag=!hurt,tag=!fleeing] run function luigis_mansion_dark_moon:items/poltergust_5000/attacking_ghost
 execute if score #temp GhostCount matches 1.. run function luigis_mansion_dark_moon:items/poltergust_5000/get_old_position
-execute if score #temp GhostCount matches 1.. at @s rotated ~ 0 run function luigis_mansion_dark_moon:items/poltergust_5000/vacuuming/attack_ghost
 execute if score #temp GhostCount matches 1.. run function luigis_mansion_dark_moon:items/poltergust_5000/face_ghost
 execute if score #temp GhostCount matches 1.. as @e[tag=ghost,tag=being_vacuumed] run function luigis_mansion_dark_moon:items/poltergust_5000/catch_ghost
 execute if score #temp GhostCount matches 1.. as @e[tag=ghost,tag=being_vacuumed] facing entity @s feet run function luigis_mansion_dark_moon:items/poltergust_5000/vacuuming/ghost
@@ -22,12 +21,13 @@ execute if score #temp GhostCount matches 1.. run tag @s add vacuuming_ghost
 execute if entity @s[tag=catch_portrait_ghost] as @a[tag=same_room,scores={Room=1..}] run function luigis_mansion_dark_moon:items/poltergust_5000/catching_ghost_music
 execute if entity @s[tag=!catch_portrait_ghost,tag=catch_ghost] as @a[tag=same_room,scores={Room=1..}] run function luigis_mansion_dark_moon:items/poltergust_5000/catching_portrait_ghost_music
 execute as @e[distance=..3,tag=captured,tag=!element_death] at @s run function luigis_mansion_dark_moon:items/poltergust_5000/vacuuming/capture
+execute if score #temp GhostCount matches 1.. at @s rotated ~ 0 run function luigis_mansion_dark_moon:items/poltergust_5000/vacuuming/attack_ghost
 scoreboard players reset #temp GhostCount
 scoreboard players reset #temp Room
 scoreboard players reset #temp ID
 tag @s remove was_blowing
 tag @s add vacuuming
-scoreboard players remove @s[tag=!no_power_gauge_decrease,tag=vacuuming_ghost] PowerGaugeCharge 1
+scoreboard players remove @s[tag=!no_power_gauge_decrease,tag=vacuuming_ghost,scores={PowerGaugeCharge=1..}] PowerGaugeCharge 1
 scoreboard players set @s[tag=!vacuuming_ghost] PowerGaugeCharge 0
 tag @s remove no_power_gauge_decrease
 function luigis_mansion_dark_moon:items/poltergust_5000/sync_power_gauge

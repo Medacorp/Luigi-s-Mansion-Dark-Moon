@@ -3,6 +3,7 @@ scoreboard players set @s Music 0
 scoreboard players set @s GradualMusic 0
 scoreboard players set @s PrevMusicType 0
 scoreboard players set @s LoadedChunks 0
+scoreboard players set @s SettingsChoice -1
 scoreboard players reset @s ID
 scoreboard players operation @s ID > @a ID
 scoreboard players add @s ID 1

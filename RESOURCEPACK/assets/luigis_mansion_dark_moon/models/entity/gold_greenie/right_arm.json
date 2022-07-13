@@ -1,0 +1,6 @@
+{
+	"parent": "luigis_mansion_dark_moon:entity/greenie/right_arm",
+	"textures": {
+        "body": "luigis_mansion_dark_moon:entity/greenie/gold"
+    }
+}

@@ -1,0 +1,104 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "luigis_mansion_dark_moon:entity/greenie/normal",
+		"body": "luigis_mansion_dark_moon:entity/greenie/normal",
+		"paranormal_chain": "luigis_mansion_dark_moon:item/empty"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 2],
+			"to": [14, 9, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -8, 8]},
+			"faces": {
+				"north": {"uv": [1.5, 5.25, 3, 6.375], "texture": "#body"},
+				"east": {"uv": [0, 5.25, 1.5, 6.375], "texture": "#body"},
+				"south": {"uv": [4.5, 5.25, 6, 6.375], "texture": "#body"},
+				"west": {"uv": [3, 5.25, 4.5, 6.375], "texture": "#body"},
+				"up": {"uv": [1.5, 3.75, 3, 5.25], "rotation": 180, "texture": "#body"},
+				"down": {"uv": [3, 3.75, 4.5, 5.25], "rotation": 180, "texture": "#body"}
+			}
+		},
+		{
+			"from": [10, 7, 14],
+			"to": [14, 8, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 3, 0]},
+			"faces": {
+				"north": {"uv": [3, 9.5, 5, 10], "texture": "#paranormal_chain"},
+				"east": {"uv": [2.5, 9.5, 3, 10], "texture": "#paranormal_chain"},
+				"south": {"uv": [0.5, 9.5, 2.5, 10], "texture": "#paranormal_chain"},
+				"west": {"uv": [0, 9.5, 0.5, 10], "texture": "#paranormal_chain"},
+				"up": {"uv": [0.5, 9, 2.5, 9.5], "texture": "#paranormal_chain"},
+				"down": {"uv": [2.5, 9, 4.5, 9.5], "texture": "#paranormal_chain"}
+			}
+		},
+		{
+			"from": [2, 7, 1],
+			"to": [14, 8, 2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 3, 0]},
+			"faces": {
+				"north": {"uv": [0.5, 5.5, 6.5, 6], "texture": "#paranormal_chain"},
+				"east": {"uv": [0, 5.5, 0.5, 6], "texture": "#paranormal_chain"},
+				"south": {"uv": [7, 5.5, 13, 6], "texture": "#paranormal_chain"},
+				"west": {"uv": [6.5, 5.5, 7, 6], "texture": "#paranormal_chain"},
+				"up": {"uv": [0.5, 5, 6.5, 5.5], "rotation": 180, "texture": "#paranormal_chain"},
+				"down": {"uv": [6.5, 5, 12.5, 5.5], "rotation": 180, "texture": "#paranormal_chain"}
+			}
+		},
+		{
+			"from": [14, 7, 2],
+			"to": [15, 8, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 3, 0]},
+			"faces": {
+				"north": {"uv": [6.5, 7.5, 7, 8], "texture": "#paranormal_chain"},
+				"east": {"uv": [0.5, 7.5, 6.5, 8], "texture": "#paranormal_chain"},
+				"south": {"uv": [0, 7.5, 0.5, 8], "texture": "#paranormal_chain"},
+				"west": {"uv": [7, 7.5, 13, 8], "texture": "#paranormal_chain"},
+				"up": {"uv": [0.5, 7, 6.5, 7.5], "rotation": 270, "texture": "#paranormal_chain"},
+				"down": {"uv": [6.5, 7, 12.5, 7.5], "rotation": 90, "texture": "#paranormal_chain"}
+			}
+		},
+		{
+			"from": [1, 7, 2],
+			"to": [2, 8, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 3, 0]},
+			"faces": {
+				"north": {"uv": [0, 6.5, 0.5, 7], "texture": "#paranormal_chain"},
+				"east": {"uv": [7, 6.5, 13, 7], "texture": "#paranormal_chain"},
+				"south": {"uv": [6.5, 6.5, 7, 7], "texture": "#paranormal_chain"},
+				"west": {"uv": [0.5, 6.5, 6.5, 7], "texture": "#paranormal_chain"},
+				"up": {"uv": [0.5, 6, 6.5, 6.5], "rotation": 90, "texture": "#paranormal_chain"},
+				"down": {"uv": [6.5, 6, 12.5, 6.5], "rotation": 270, "texture": "#paranormal_chain"}
+			}
+		},
+		{
+			"from": [2, 7, 14],
+			"to": [6, 8, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 3, 0]},
+			"faces": {
+				"north": {"uv": [11, 8.5, 13, 9], "texture": "#paranormal_chain"},
+				"south": {"uv": [0.5, 8.5, 2.5, 9], "texture": "#paranormal_chain"},
+				"west": {"uv": [0, 8.5, 0.5, 9], "texture": "#paranormal_chain"},
+				"up": {"uv": [0.5, 8, 2.5, 8.5], "texture": "#paranormal_chain"},
+				"down": {"uv": [10.5, 8, 12.5, 8.5], "texture": "#paranormal_chain"}
+			}
+		},
+		{
+			"from": [3.625, 8.925, 14],
+			"to": [11.625, 9.925, 15],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [0, 3, 0]},
+			"faces": {
+				"north": {"uv": [7, 8.5, 11, 9], "texture": "#paranormal_chain"},
+				"east": {"uv": [6.5, 8.5, 7, 9], "texture": "#paranormal_chain"},
+				"south": {"uv": [2.5, 8.5, 6.5, 9], "texture": "#paranormal_chain"},
+				"up": {"uv": [2.5, 8, 6.5, 8.5], "texture": "#paranormal_chain"},
+				"down": {"uv": [6.5, 8, 10.5, 8.5], "texture": "#paranormal_chain"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -8, 0]
+		}
+	}
+}

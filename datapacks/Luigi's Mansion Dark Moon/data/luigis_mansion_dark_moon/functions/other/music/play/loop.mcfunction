@@ -1,3 +1,4 @@
+scoreboard players set @s[scores={MusicType=-151..-150}] MusicType 48
 scoreboard players set @s[scores={MusicType=-121..-120}] MusicType 83
 scoreboard players set @s[scores={MusicType=-29..-25}] MusicType 121
 scoreboard players set @s[scores={MusicType=-19..-17}] MusicType 124
@@ -242,3 +243,9 @@ playsound luigis_mansion_dark_moon:music.secret_mine.frozen_pit music @s[scores=
 scoreboard players set @s[scores={MusicType=129}] Music 700
 playsound luigis_mansion_dark_moon:music.treacherous_mansion.terrace music @s[scores={MusicType=130}] ~ ~ ~ 1000
 scoreboard players set @s[scores={MusicType=130}] Music 1163
+playsound luigis_mansion_dark_moon:music.gloomy_manor.cellar music @s[scores={MusicType=131}] ~ ~ ~ 1000
+scoreboard players set @s[scores={MusicType=131}] Music 440
+playsound luigis_mansion_dark_moon:music.haunted_towers.hider_pillow_fight music @s[scores={MusicType=132}] ~ ~ ~ 1000
+scoreboard players set @s[scores={MusicType=132}] Music 500
+playsound luigis_mansion_dark_moon:music.treacherous_mansion.boo_plays_with_portal music @s[scores={MusicType=133}] ~ ~ ~ 1000
+scoreboard players set @s[scores={MusicType=133}] Music 440

@@ -1,0 +1,6 @@
+{
+	"parent": "luigis_mansion_dark_moon:entity/greenie/head",
+	"textures": {
+        "body": "luigis_mansion_dark_moon:entity/greenie/strong"
+    }
+}

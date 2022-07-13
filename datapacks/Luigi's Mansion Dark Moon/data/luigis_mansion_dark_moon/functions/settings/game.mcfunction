@@ -1,0 +1,10 @@
+tellraw @s {"translate":"chat.type.text","with":[{"translate":"luigis_mansion_dark_moon:entity.dark_moon","color":"green"},{"translate":"luigis_mansion_dark_moon:settings.game.music"}]}
+tellraw @s {"translate":"chat.type.text","with":[{"translate":"luigis_mansion_dark_moon:entity.dark_moon","color":"green"},{"translate":"luigis_mansion_dark_moon:settings.game.sounds"}]}
+tellraw @s {"translate":"chat.type.text","with":[{"translate":"luigis_mansion_dark_moon:entity.dark_moon","color":"green"},{"translate":"luigis_mansion_dark_moon:settings.game.brightness"}]}
+tellraw @s ""
+tellraw @s {"translate":"chat.type.text","with":[{"translate":"luigis_mansion_dark_moon:entity.dark_moon","color":"green"},{"translate":"luigis_mansion_dark_moon:settings.game.server"}]}
+tellraw @s {"translate":"chat.type.text","with":[{"translate":"luigis_mansion_dark_moon:entity.dark_moon","color":"green"},{"text":"gamemode=adventure"}]}
+tellraw @s {"translate":"chat.type.text","with":[{"translate":"luigis_mansion_dark_moon:entity.dark_moon","color":"green"},{"text":"difficulty=normal"}]}
+tellraw @s {"translate":"chat.type.text","with":[{"translate":"luigis_mansion_dark_moon:entity.dark_moon","color":"green"},{"text":"spawn-monsters=true"}]}
+tellraw @s {"translate":"chat.type.text","with":[{"translate":"luigis_mansion_dark_moon:entity.dark_moon","color":"green"},{"text":"spawn-npcs=true"}]}
+tellraw @s {"translate":"chat.type.text","with":[{"translate":"luigis_mansion_dark_moon:entity.dark_moon","color":"green"},{"text":"spawn-animals=true"}]}

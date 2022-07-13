@@ -6,8 +6,7 @@ tag @s remove super_poltergust
 tag @s remove dark_light_device_selected
 tag @s[tag=!dark_light_device_cooling_down,scores={Room=1..},nbt={SelectedItem:{tag:{luigis_mansion_dark_moon:{id:"luigis_mansion_dark_moon:dark_light_device"}}}}] add dark_light_device_selected
 execute if entity @s[tag=dark_light_device_selected,tag=!dark_light_device_cooling_down] run function luigis_mansion_dark_moon:items/dark_light_device/cast_light
-execute if data storage luigis_mansion_dark_moon:data vault.upgrades{dark_light_level:1} run scoreboard players remove @s[tag=!dark_light_device_selected,scores={DarkLightTime=1..}] DarkLightTime 4
-execute if data storage luigis_mansion_dark_moon:data vault.upgrades{dark_light_level:2} run scoreboard players remove @s[tag=!dark_light_device_selected,scores={DarkLightTime=1..}] DarkLightTime 2
-execute if data storage luigis_mansion_dark_moon:data vault.upgrades{dark_light_level:3} run scoreboard players remove @s[tag=!dark_light_device_selected,scores={DarkLightTime=1..}] DarkLightTime 1
+scoreboard players remove @s[tag=!dark_light_device_selected,tag=!dark_light_device_overheating,scores={DarkLightTime=1..}] DarkLightTime 4
 tag @s[scores={DarkLightTime=..0}] remove dark_light_device_cooling_down
+execute if entity @s[tag=!vacuuming] unless entity @s[nbt={XpP:0.0f},scores={DarkLightTime=0}] run function luigis_mansion_dark_moon:items/dark_light_device/sync_cooldown
 scoreboard players set @s[scores={DarkLightTime=..-1}] DarkLightTime 0

@@ -1,6 +1,6 @@
 {
 	"parent": "luigis_mansion_dark_moon:item/flashlight/super_poltergust",
 	"textures": {
-		"flashlight": "luigis_mansion_dark_moon:item/flashlight_charging"
+		"0": "luigis_mansion_dark_moon:item/flashlight_charging"
 	}
 }
