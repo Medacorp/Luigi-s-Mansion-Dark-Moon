@@ -335,12 +335,6 @@ scoreboard players set @s[scores={MusicType=-2}] Music 70
 playsound luigis_mansion_dark_moon:music.room_cleared music @s[scores={MusicType=-1}] ~ ~ ~ 1000
 scoreboard players set @s[scores={MusicType=-1}] Music 44
 
-playsound luigis_mansion_dark_moon:music.catching_ghosts.1 music @s[scores={MusicType=32}] ~ ~ ~ 1000
-scoreboard players set @s[scores={MusicType=32}] Music 419
-playsound luigis_mansion_dark_moon:music.catching_ghosts.2 music @s[scores={MusicType=33}] ~ ~ ~ 1000
-scoreboard players set @s[scores={MusicType=33}] Music 420
-playsound luigis_mansion_dark_moon:music.catching_ghosts.3 music @s[scores={MusicType=34}] ~ ~ ~ 1000
-scoreboard players set @s[scores={MusicType=34}] Music 420
 playsound luigis_mansion_dark_moon:music.coin_challenge.begin music @s[scores={MusicType=39}] ~ ~ ~ 1000
 scoreboard players set @s[scores={MusicType=39}] Music 130
 playsound luigis_mansion_dark_moon:music.coin_challenge.begin.old_clockworks music @s[scores={MusicType=40}] ~ ~ ~ 1000

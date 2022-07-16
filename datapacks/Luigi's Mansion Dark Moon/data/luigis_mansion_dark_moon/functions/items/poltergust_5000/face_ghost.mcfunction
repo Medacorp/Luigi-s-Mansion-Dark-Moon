@@ -1,4 +1,4 @@
-execute as @e[tag=ghost,tag=being_vacuumed] run function luigis_mansion_dark_moon:items/poltergust_5000/face_ghost/add_to_average
+execute as @e[tag=ghost,tag=being_vacuumed,tag=!dying] run function luigis_mansion_dark_moon:items/poltergust_5000/face_ghost/add_to_average
 scoreboard players reset #temp2 PosX
 scoreboard players reset #temp2 PosY
 scoreboard players reset #temp2 PosZ

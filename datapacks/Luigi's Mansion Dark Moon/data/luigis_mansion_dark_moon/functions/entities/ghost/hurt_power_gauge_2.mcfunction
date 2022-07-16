@@ -1,5 +1,5 @@
 scoreboard players operation #temp LastHealth = @s Health
-scoreboard players remove @s[tag=!paranormal_shield_1,tag=!paranormal_shield_2,tag=!paranormal_shield_3] Health 100
+scoreboard players remove @s[tag=!paranormal_shield_1,tag=!paranormal_shield_2,tag=!paranormal_shield_3,tag=!infinite_health] Health 100
 scoreboard players operation #temp Health = @s Health
 scoreboard players operation #temp LastHealth /= #100 Constants
 scoreboard players operation #temp Health /= #100 Constants

@@ -67,6 +67,8 @@ execute if entity @s[tag=orange_flower] run function luigis_mansion_dark_moon:en
 
 scoreboard players remove @s[scores={Sound=1..}] Sound 1
 
+tag @s remove in_vacuum
+tag @s remove newly_stunned
 tag @s[tag=remove_from_existence] add dead
 scoreboard players reset @s[tag=dead]
 teleport @s[tag=dead] ~ ~-1000 ~

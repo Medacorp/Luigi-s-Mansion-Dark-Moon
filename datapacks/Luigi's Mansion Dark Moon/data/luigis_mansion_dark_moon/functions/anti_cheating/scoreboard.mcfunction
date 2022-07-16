@@ -21,6 +21,8 @@ scoreboard objectives add HomeRot dummy
 scoreboard objectives add HomeRotX dummy
 scoreboard objectives add HomeRotY dummy
 scoreboard objectives add ModelTime dummy
+scoreboard objectives add Move dummy
+scoreboard objectives add MoveFlee dummy
 scoreboard objectives add Music dummy
 scoreboard objectives add MusicType dummy
 scoreboard objectives add ID dummy
@@ -30,6 +32,7 @@ scoreboard objectives add Invulnerable dummy
 scoreboard objectives add InteractionTime dummy
 scoreboard objectives add Jump minecraft.custom:minecraft.jump
 scoreboard objectives add JumpHeight dummy
+scoreboard objectives add KillerID dummy
 scoreboard objectives add LoadedChunks dummy
 scoreboard objectives add Offline minecraft.custom:minecraft.leave_game
 scoreboard objectives add OtherX dummy
@@ -64,6 +67,7 @@ scoreboard objectives add StrobulbCharge dummy
 scoreboard objectives add StunTime dummy
 scoreboard objectives add Time dummy
 scoreboard objectives add TotalDamage dummy
+scoreboard objectives add Turn dummy
 scoreboard objectives add UseItem minecraft.used:minecraft.carrot_on_a_stick
 scoreboard objectives add Walk minecraft.custom:minecraft.walk_one_cm
 scoreboard objectives add WalkOnWater minecraft.custom:minecraft.walk_on_water_one_cm
@@ -73,6 +77,7 @@ scoreboard objectives add YellTime dummy
 scoreboard players set #-1 Constants -1
 scoreboard players set #2 Constants 2
 scoreboard players set #40 Constants 40
+scoreboard players set #100 Constants 100
 scoreboard players set #256 Constants 256
 scoreboard players set #10000 Constants 10000
 

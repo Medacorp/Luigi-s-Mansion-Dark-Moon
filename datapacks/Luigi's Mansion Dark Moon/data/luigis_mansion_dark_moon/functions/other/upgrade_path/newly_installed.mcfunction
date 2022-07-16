@@ -2,8 +2,8 @@ data modify storage luigis_mansion_dark_moon:data {} merge value {data_index:1,g
 #ghosts_caught:[{uuid:[I;...],total:X,total_weight:X,ghosts:{<ghost>:{amount:X,heaviest_mass:X}}}]
 #money_grabbed:[{uuid:[I;...],total:X,money:{gold_coin:X,bill:X,red_coin:X,gold_bar:X,gold_bone:X}}]
 #keys:[{uuid:[I;...],amount:X}]
-#scarescraper_totals:[{uuid:[I;...],ghosts:X,money:X,damage_dealt:X,ghost_mass:X,damage_taken:X,fainted:X,cursed:X,trapped:X}] (only registed on floor, not tower: bosses:X,damage_boss:X,furniture_searched:X,hearts:X,polterpups:X,room_clear:X)
+#scarescraper totals:[{uuid:[I;...],ghosts:X,money:X,damage_dealt:X,ghost_mass:X,damage_taken:X,fainted:X,cursed:X,trapped:X}] (only registed on floor, not tower: bosses:X,damage_boss:X,furniture_searched:X,hearts:X,polterpups:X,room_clear:X)
 #selected map: 0 = none, 1 = gloomy manor, 2 = haunted towers, 3 = old clockworks, 4 = secret mine, 5 = treacherous mansion, 6 = king boo's illusion, 7 = scarescraper
 #scarescraper modes: 0 = hunter, 1 = rush, 2 = polterpup, 3 = surprise
-#mission:{selected:"a_1",map:{highlight_rooms:["ROOM"],rooms:{ROOM:{seen:1b,haunted:1b,hidden_on_map:1b}},floors:{lowest:0,highest:2}},state:{answered_call_X:1b,saw_cutscene_X:1b,found_task_item:1b}}
+#mission:{selected:{mansion:"a",mission:"boss"},map:{highlight_rooms:["ROOM"],rooms:{ROOM:{seen:1b,haunted:1b,hidden_on_map:1b}},floors:{lowest:0,highest:2}},state:{answered_call_X:1b,saw_cutscene_X:1b,found_task_item:1b}}
 forceload add 0 0
