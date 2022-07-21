@@ -11,3 +11,10 @@ execute unless entity @s[tag=!vulnerable,tag=!spawned_health_display] run functi
 execute if entity @s[scores={Health=0}] run function luigis_mansion_dark_moon:entities/ghost/death
 
 tag @a remove vacuuming_this_ghost
+
+execute store result score #temp ID if data entity @s data.target run data get entity @s data.target
+execute as @a[tag=same_room] if score @s ID matches #temp ID run tag @s add target
+execute unless entity @a[tag=target,limit=1] run data remove entity @s data.target
+scoreboard players reset #temp ID
+
+execute unless data entity @s data.target run function luigis_mansion_dark_moon:entities/ghost/set_random_target

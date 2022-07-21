@@ -1,3 +1,4 @@
+scoreboard players set @s[scores={PowerGaugeCharge=41..},tag=vacuuming_object] PowerGaugeCharge 40
 execute if data storage luigis_mansion_dark_moon:data vault.upgrades{power_gauge_level:1} unless data storage luigis_mansion_dark_moon:data {selected_map:7} run scoreboard players set @s[scores={PowerGaugeCharge=41..}] PowerGaugeCharge 40
 execute if data storage luigis_mansion_dark_moon:data vault.upgrades{power_gauge_level:2} unless data storage luigis_mansion_dark_moon:data {selected_map:7} run scoreboard players set @s[scores={PowerGaugeCharge=81..}] PowerGaugeCharge 80
 execute if data storage luigis_mansion_dark_moon:data vault.upgrades{power_gauge_level:3} unless data storage luigis_mansion_dark_moon:data {selected_map:7} run scoreboard players set @s[scores={PowerGaugeCharge=121..}] PowerGaugeCharge 120

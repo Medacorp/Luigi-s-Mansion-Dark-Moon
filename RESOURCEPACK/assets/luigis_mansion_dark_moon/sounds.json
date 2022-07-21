@@ -8758,7 +8758,7 @@
     "music.secret_mine.frozen_pit": {
         "sounds": [
             {
-                "name": "luigis_mansion_dark_moon:music/frozen_pit",
+                "name": "luigis_mansion_dark_moon:music/secret_mine/frozen_pit",
                 "stream": true,
                 "volume": 0.0005
             }

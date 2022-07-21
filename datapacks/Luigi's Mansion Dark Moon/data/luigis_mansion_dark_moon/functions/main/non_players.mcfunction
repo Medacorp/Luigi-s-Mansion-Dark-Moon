@@ -65,6 +65,8 @@ execute if entity @s[tag=robomb] run function luigis_mansion_dark_moon:entities/
 execute if entity @s[tag=flytrap] run function luigis_mansion_dark_moon:entities/flytrap/tick
 execute if entity @s[tag=orange_flower] run function luigis_mansion_dark_moon:entities/orange_flower/tick
 
+tag @a[tag=target,limit=1] remove target
+
 scoreboard players remove @s[scores={Sound=1..}] Sound 1
 
 tag @s remove in_vacuum

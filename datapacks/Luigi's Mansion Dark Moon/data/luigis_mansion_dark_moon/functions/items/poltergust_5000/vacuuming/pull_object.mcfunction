@@ -1,0 +1,1 @@
+execute as @a[tag=me,limit=1] run function luigis_mansion_dark_moon:items/poltergust_5000/charge_power_gauge
